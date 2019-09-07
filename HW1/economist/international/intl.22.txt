@@ -1,0 +1,91 @@
+
+   Rapid internet services are a boon. But not all regulators understand
+   them
+
+   IN ERAS past, economic success depended on creating networks that
+   could shift people, merchandise and electric power as efficiently and
+   as widely as possible. Today's equivalent is broadband: the high-speed
+   internet service that has become as vital a tool for producers and
+   distributors of goods as it is for people plugging into all the social
+   and cultural opportunities offered by the web.
+
+   Easy access to cheap, fast internet services has become a facilitator
+   of economic growth and a measure of economic performance. No wonder,
+   then, that statistics show a surge in broadband use, especially in
+   places that are already prosperous. The OECD, a rich-country club,
+   says the number of subscribers in its 30 members was 221m last June--a
+   24% leap over a year earlier. But it is not always the most powerful
+   economies that are most wired. In Denmark, the Netherlands and
+   Switzerland, over 30% of inhabitants have broadband. In America, by
+   contrast, the proportion is 22%, only slightly above the OECD average
+   of just under 20%.
+
+   In terms of speed, Japan leads the world. Its average advertised
+   download speed is 95 megabits per second. France and Korea are ranked
+   second and third, but are less than half as fast, and the median among
+   OECD countries is not much more than a tenth. America's average speed
+   is supposed to be a bit above the median, but most users find that it
+   isn't, or that the faster speeds are vastly more expensive. A New
+   Yorker who wants the same quality of broadband as a Parisian has to
+   pay around $150 more per month.
+
+   What accounts for the differences among rich countries? Two or three
+   years ago demography was often cited: small, densely populated
+   countries were easier to wire up than big, sparsely inhabited ones.
+   But the leaders in broadband usage include Canada, where a tiny
+   population is spread over a vast area. The best explanation, in fact,
+   is that broadband thrives on a mix of competition and active
+   regulation, to ensure an open contest.
+
+   A lack of competition-boosting oversight is one reason for the poor
+   record of the United States (and indeed for New Zealand, another
+   unexpected laggard). Most Americans have a choice of only two
+   broadband providers, either a telecoms or a cable operator. This
+   virtual duopoly suits both sorts of provider, and neither has raced to
+   offer its customers faster access. In some American states, prices
+   have risen; in most other countries they have dropped.
+
+   In theory, America's 1996 Telecoms Act obliged operators to rent out
+   their lines to rivals; in practice, a regulatory decision and then a
+   court ruling (in 2003 and 2004 respectively) have made it easy for
+   operators to keep competitors out. The supposed aim of these decisions
+   was to force new firms to build their own infrastructure, instead of
+   piggybacking on facilities set up by older outfits. But new entrants
+   have found it hard to join the fray.
+
+   In any event, those American rulings may have been based on a faulty
+   idea of how competition works in this area. As Taylor Reynolds, an
+   OECD analyst, puts it, innovation usually comes in steps: newcomers
+   first rent space on an existing network, to build up customers and
+   income. Then they create new and better infrastructure, as and when
+   they need it.
+
+   In France, for example, the regulator forced France Télécom to rent
+   out its lines. One small start-up firm benefited from this opportunity
+   and then installed technology that was much faster than any of its
+   rivals'. It won so many customers that other operators had to follow
+   suit. In Canada, too, the regulator mandated line-sharing, and
+   provinces subsidised trunk lines from which smaller operators could
+   lease capacity to provide service.
+
+   In South Korea, where half the population lives in flats, each block
+   owns its own internal cabling and allows rival operators to put their
+   equipment in the basement; each tenant then chooses which to use. In
+   Japan, politicians put pressure on the dominant operator, NTT, to
+   connect people's homes by high-speed fibre lines. And this week the
+   communications ministry indicated that it will make NTT open those
+   fibre connections to rivals.
+
+   As broadband grows more popular, the political mood may change in many
+   countries. At present, consumers are often misled by the speeds that
+   operators promise to deliver. Soon regulators can expect to face
+   pressure to ensure truth in advertising, as well as to promote easier
+   access.
+
+   Pressure will also come to correct another problem: most operators cap
+   the amount of traffic users may send and receive each month, and
+   nearly all provide far less speed for sending than for receiving. In
+   other words, broadband doesn't really offer a two-way street. This
+   will matter more as users turn into creators of content, from videos
+   to blogs, and ask to be treated with due respect.
+

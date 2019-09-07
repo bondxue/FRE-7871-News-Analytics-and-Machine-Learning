@@ -1,0 +1,113 @@
+
+   Offshore technology: Rising costs and clever kit are transforming the
+   oil platform--and could even do away with it altogether 
+
+   FROM the helipad on top of the Alwyn North oil and gas platform, the
+   horizon looks crowded. The massive structure stands in the middle of
+   the North Sea, miles from land, but it is far from isolated. Another
+   20-odd platforms are visible, plus several drilling rigs, not to
+   mention all the ships and helicopters carting staff and supplies
+   around. Waters that look featureless and deserted on the map turn out
+   to be littered with teeming settlements.
+
+                                                                    Alamy
+
+                                   Alamy
+
+                           An endangered species?
+
+   All this activity comes at tremendous cost. Total, the oil giant that
+   owns Alwyn North, spent £1.5 billion ($2.4 billion) to build it back
+   in the mid-1980s. It has since spent around £700m on improvements, and
+   plans to spend £150m more. And Alwyn North is just one of 435
+   platforms in the British portion of the North Sea.
+
+   Then there are running costs. Up to 300 people live on the platform at
+   a time, but keeping it fully manned involves more than twice that
+   figure, since most staff get three weeks off for every two that they
+   work. Simply flying them all from Aberdeen to the platform costs about
+   £1,000 per person per trip. (Aberdeen boasts the world's busiest
+   civilian heliport, thanks to all the offshore traffic.) Food and other
+   supplies are brought in by boat. Another vessel is kept on standby
+   near the platform all the time, in case of emergency. Generators and
+   desalinators run around the clock to provide power and drinking water.
+
+   According to Oil and Gas UK, an industry group, oil firms spent over
+   £11 billion last year building and running offshore facilities in
+   British waters. That puts production costs, at $22 per barrel, among
+   the highest in the world. And they are rising rapidly. Deutsche Bank
+   estimates that inflation in the oil business has run at 30% a year
+   over the past two years, and will continue to rise by at least 15% a
+   year this year and next.
+
+   No wonder, then, that firms are determined to reduce the expense of
+   producing oil at sea, in the North Sea and elsewhere. One of the
+   simplest ways to cut costs is to minimise the number of people working
+   on platforms and increase their productivity with the help of modern
+   communications. Alwyn North is connected to the mainland by
+   fibre-optic cable. That allows geologists onshore to analyse data from
+   drilling as it occurs, suggest adjustments and design future drilling
+   plans without ever leaving their offices. It also provides continuity
+   between shifts: Jon Starkebye of IBM, a computer giant that provides
+   services to oil companies, notes that a platform's output can fall by
+   as much as 7% during hand-overs between different teams.
+
+   With access to more powerful computers onshore, firms can crunch more
+   numbers and so model more accurately what is going on in their fields.
+   That allows them to anticipate and pre-empt the intrusion of water
+   into their wells, say, or the failure of equipment. Such techniques
+   have enabled Statoil, a Norwegian oil firm, to stretch out the period
+   between shutdowns for repairs at one field from 750 hours to 4,000,
+   and to reduce the annual hours of engineering work at another from
+   20,000 to 6,000.
+
+   These efficiencies, in turn, permit much smaller crews: whereas a
+   typical older platform needed 100 workers, new ones can make do with
+   as few as 29, says Adolfo Henriquez, who is in charge of disseminating
+   such "integrated operations" through the firm. Adopting similar
+   techniques at all of Norway's offshore fields would yield an extra 250
+   billion Norwegian kroner ($43.6 billion) in revenues, according to a
+   study published last year by the local oil-industry association.
+
+   Another way for firms operating offshore to economise is by developing
+   multiple fields from a single platform. Oil platforms used to stand
+   directly above the fields they drilled, as Alwyn North does over the
+   oil and gas deposits of the same name. But Total has since discovered
+   several other pockets of hydrocarbons nearby. The closest ones can be
+   tapped from the platform, since it is now possible to drill sideways
+   as well as up and down: a total of 20 wells snake out from Alwyn North
+   in different directions. Earlier this year, Exxon Mobil broke the
+   record for this sort of long-distance drilling with a well over 11km
+   (7 miles) long.
+
+   Even more distant fields can be "tied back" to a platform using
+   pipelines along the sea floor. In a tie-back, the valves that open and
+   close the well are located not on the rig, but on the sea floor;
+   engineers operate them by remote control. Several deposits of oil and
+   gas, including Nuggets, a cluster of gas fields over 40km away, are
+   linked to Alwyn North in this way. Next, Total plans to connect a new
+   discovery called Jura to the platform. As a result the lifespan of
+   Alwyn North, estimated at 10 years when it first started production in
+   1987, has been extended to over 40 years, while its projected output
+   has almost quadrupled.
+
+   The next logical step is to put more equipment underwater, in the hope
+   of dispensing with platforms altogether. Statoil, for example, is
+   tapping a gas field called Snohvit, which lies 143km offshore, without
+   using a platform. But this is possible only because the pressure of
+   the field is strong enough to keep the gas flowing through the long
+   pipeline back to shore. Norsk Hydro, another Norwegian energy firm on
+   the verge of merging with Statoil, has developed another gas field,
+   Ormen Lange, in the same way. But in a few years a compressor that can
+   work underwater will be needed to supplement the falling pressure in
+   the field. Last year, Norsk Hydro hired General Electric (GE), an
+   American industrial giant, to build a prototype. "Fifteen years from
+   now," says Claudi Santiago of GE, "the vision is that offshore
+   platforms will disappear."
+
+   Or maybe not. If some way can be found to liquefy gas offshore, Mr
+   Santiago points out, then deposits that are currently too remote for
+   the construction of pipelines could be developed, and the gas
+   transported in liquid form by ship instead. That would give offshore
+   platforms a whole new lease on life.
+

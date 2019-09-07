@@ -1,0 +1,71 @@
+
+   Computing: The German Democratic Republic bequeathed a 600m-piece
+   puzzle to the reunified country. It is about to be solved using
+   software
+
+                                                               Fraunhofer
+                                                               Fraunhofer
+
+                                                     Look, an edge piece!
+
+   WHEN the shredding machines failed and the mob was at the gates, the
+   spooks at East Germany's State Security Service, better known as the
+   Stasi, tried turning their files into mush by dunking them in water.
+   But the number of bathtubs in their headquarters in Normannenstrasse
+   was as unequal to the task as the machines had been. In the end, they
+   resorted to tearing each page up by hand. The fact that many of the
+   resulting shreds are only a few millimetres across is testament to
+   just how much the soon-to-be-ex-members of the intelligence service
+   did not want their work to fall into the public domain.
+
+   If Bertram Nickolay of the Fraunhofer Institute for Production Systems
+   and Design Technology, in Berlin, has his way, however, the public
+   domain is exactly where they will soon end up. Using the institute's
+   expertise in pattern-matching technology, he and his colleagues are
+   about to embark on one of the biggest jigsaw puzzles of all time--or,
+   rather, 45m of them. For that is the number of pages which the 600m
+   fragments of paper, stored in more than 16,000 bags that were
+   recovered from Normannenstrasse, are thought to represent.
+
+   At first glance the task of joining that many shreds looks impossible,
+   even when each shred has been scanned so that the matching can be done
+   by machine. The secret, as with any computing task, is to break the
+   problem into smaller, more manageable chunks. The first stage of this
+   breakdown was done, unwittingly, by the Stasi themselves. Since they
+   were in a hurry, the shredders tended to stuff all the bits of a given
+   document into a single bag. That greatly simplifies the problem, so
+   that rather than being nearly impossible it becomes merely unwieldy.
+
+   The next stage is to group the shreds from a single bag according to
+   various criteria. These include the colour and texture of the paper
+   each shred is made from, whether that paper is lined or not, the
+   colour of the ink used, whether that ink represents a picture, a piece
+   of typewritten text or a piece of handwriting, and--if it is
+   handwriting--what style.
+
+   Only when a group of related shreds has been found using these
+   criteria does the actual puzzling begin. That is done the way human
+   puzzlers do it, by paying attention to shapes and sizes of the pieces,
+   and the contours of their edges. If two shreds can be connected, they
+   are regarded as one larger shred, and are thrown back into the heap of
+   images to be analysed and compared with the others. Thus, as with a
+   real jigsaw, areas get progressively filled in until the whole picture
+   is finally complete.
+
+   Like a human, the program that does the puzzling is capable of
+   learning. It spawns slightly altered versions of itself that compete
+   for computer time on the basis of their success at finding matches.
+   The most successful are then mutated again, in a process similar to
+   biological evolution. This is necessary because unlike a real jigsaw
+   or a machine-shredded document, in which the pieces fit perfectly, the
+   shreds of a torn document are slightly distorted and frayed at the
+   edges. Deciding what matches what therefore requires judgment, which
+   is notoriously difficult to program in advance. Indeed, if the program
+   really cannot make up its mind whether two shreds match or not, it
+   refers the matter to a human operator.
+
+   Dr Nickolay is planning to process about 400 bags over the course of
+   the next two years as a final test of the technology. If that works,
+   it will just be a question of adding more scanners and computers to
+   expose the truth about East Germany's dark past.
+

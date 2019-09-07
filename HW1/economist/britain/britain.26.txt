@@ -1,0 +1,78 @@
+
+   Medicine: A new approach to proton-beam radiotherapy, which allows
+   treatment to be precisely targeted, could make it more widely
+   available
+
+   RADIOTHERAPY, the use of radiation zipping through the DNA of cancer
+   cells to kill them or halt their reproduction, has always had the
+   disadvantage of causing collateral damage to healthy tissue. But some
+   forms of radiation are worse than others. One of the best is a beam of
+   protons. Unlike X-rays, the standard radiotherapeutic tool, a proton
+   beam can be tuned in a way that causes it to dump its destructive
+   energy at a particular depth beneath the skin. This means it can
+   destroy a tumour without damaging other tissue. Unfortunately, the
+   machines needed to generate such beams weigh several hundred tonnes
+   and cost $100m or more to build. So although proton therapy has been
+   available since 1990, there are still only about 25 clinics around the
+   world that offer it.
+
+   An announcement at a meeting of the American Association of Physicists
+   in Medicine, held in Minneapolis in July, could change this, however.
+   Thomas Mackie of the University of Wisconsin has a new approach that
+   he hopes will bring the cost of a proton-therapy machine down to $20m
+   and the space required to a smallish room.
+
+   The dielectric-wall accelerator (DWA) that lies at the heart of Dr
+   Mackie's machine was designed in the 1990s at the Lawrence Livermore
+   National Laboratory in California as a portable X-ray source. At
+   first, it was used to accelerate electrons rather than protons. Those
+   electrons were smashed into a metal target to generate the high-energy
+   X-rays that Livermore's physicists needed to peek inside ageing bombs
+   and check that they were still in working order. But Dennis Matthews,
+   one of Livermore's more medically minded programme directors, realised
+   that by changing the polarity of the machine it could be used to
+   accelerate positively charged protons, rather than negatively charged
+   electrons. He then teamed up with the cancer centre at the University
+   of California, Davis, to investigate the possibility of using a DWA
+   for proton therapy.
+
+   The advantage of the DWA is its small size. Like all particle
+   accelerators, it uses an electric field to speed up electrically
+   charged particles. Most accelerators, however, speed up the particles
+   over a long distance, using a moderate field. The DWA employs a
+   succession of enormous fields over just a couple of metres.
+
+   That it is able to do so is the result of two technical advances. The
+   first is an arrangement of insulating materials and conductors called
+   a high-gradient insulator. Every insulator has a threshold beyond
+   which the electrons are ripped off its component atoms and it becomes
+   a conductor. Livermore's high-gradient insulator, though, damps down
+   the early stages of this ripping process and creates a threshold so
+   high that it can support the electric fields the DWA requires.
+
+   The second advance is a way of switching thousands of volts on and off
+   in a few billionths of a second, a previously impossible feat. This
+   requires a trick opposite to the first one--suddenly making an
+   insulator into a conductor. The insulator in question is silicon
+   carbide. When hit with laser light of the correct frequency, it
+   becomes conductive.
+
+   The DWA, then, is a tube with an inner wall made of the high-gradient
+   insulator and a series of silicon carbide switches along its length.
+   As the switches are hit by a carefully timed sequence of laser pulses,
+   a powerful electric field is created. Viewed from inside the tube,
+   this field looks like an accelerating electrical pulse, and it is this
+   pulse that picks up and carries the electrons--or, if the polarity is
+   reversed, the protons.
+
+   Once Davis's scientists had pronounced the general idea sound, they
+   and Dr Matthews looked around for a commercial collaborator. They lit
+   on a firm called TomoTherapy, which is where Dr Mackie came in--for,
+   besides working at Wisconsin, he is also TomoTherapy's co-founder. At
+   the moment the firm sells machines that tune traditional, X-ray-based
+   radiotherapy to make it more effective. The idea is to adapt the
+   techniques the firm has developed for controlling X-rays to control
+   protons. It will take a while to determine whether this will work. But
+   if it does, radiation therapy for cancer could become a lot less
+   traumatic and a lot more effective.
+

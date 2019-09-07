@@ -1,0 +1,206 @@
+
+   Computing: They may be powerful, but computers could still be easier
+   to use. Might new forms of interface help?
+
+   IT HAS been called a revolution, and rightly so. Over the past 25
+   years computers have become a feature of everyday life in rich
+   countries and, increasingly, in poor ones too. Today's machines are
+   fast--a typical desktop now has ten times the number-crunching power
+   of the fastest machine on earth in 1983--and widespread, given that
+   the world's 3 billion or so mobile phones are, in effect, pocket
+   computers. But although computers have become cheaper, more capable
+   and more commonplace, they have made much less progress when it comes
+   to ease of use. Their potential remains tantalisingly out of reach for
+   people who find their control systems, or "user interfaces", too
+   complex. And even people who have no difficulty navigating menus,
+   dialogue boxes and so on, might use computers more productively if
+   their interfaces were better.
+
+   Consider the Nokia 6680 mobile phone, says Adam Greenfield, an expert
+   in computing culture at New York University and the author of
+   "Everyware", a book about the future of computing. He found that 13
+   clicks were needed to change its ringtone. "It's an interface designed
+   by engineers for engineers," he says. Steven Kyffin, a senior
+   researcher at Philips, a consumer-electronics giant based in Eindhoven
+   in the Netherlands, concedes that computer programmers and engineers,
+   himself included, are often guilty of designing complicated systems
+   packed with too many features. "We're compelled by complexity," Mr
+   Kyffin says. "There's a point where humanity just can't handle it."
+   Tellingly, the field of interface design even has an unwieldy name: it
+   is known as "human-computer interaction", or HCI.
+
+   Part of the problem is that programmers have traditionally had more
+   power than designers. Programmers put in place the myriad features
+   they want; interface designers then struggle to wrap them all up in a
+   product that is simple to use. The results, all too often, are clunky
+   interfaces. But the balance of power may now be shifting to the
+   designers. Ken Wood, deputy director of Microsoft's research
+   laboratory in Cambridge, England, says his company is putting greater
+   emphasis on interface design. Three years ago, he says, none of his
+   lab's budget was earmarked for pure HCI research. Today, a quarter of
+   the lab's budget goes on it.
+
+   Making computers simpler to operate would help the people who use them
+   and the companies that produce them. Ease of use is one area where
+   technology firms can differentiate themselves and gain competitive
+   advantage. Just look at Apple, which is able to charge a premium for
+   its products thanks to their elegance and simplicity. Its Macintosh
+   computer, launched in 1984, helped to popularise the window, menu and
+   mouse-based graphical interface--a huge step forward from the system
+   of cryptic typed commands it replaced. Graphical interfaces became
+   common in the 1990s, but there has been very little progress since.
+
+   What comes next? In March this year Microsoft assembled a group of HCI
+   experts to discuss this question at a conference near Seville called
+   HCI 2020. Andrew Herbert, managing director of Microsoft's Cambridge
+   laboratory, told attendees that interface simplification is vital if
+   the computing world is to be opened up to new consumers such as the
+   elderly, children and people with little computer experience.
+   Microsoft says new features in its Windows Vista operating system,
+   such as 3-D graphics intended to make navigation easier, demonstrate
+   its commitment to greater ease of use.
+
+   The view from Hollywood
+
+   But tweaking an existing window-based interface is hardly a radical
+   step. For a more dramatic vision of what may be to come, look no
+   further than "Minority Report" (2002), Steven Spielberg's futuristic
+   thriller starring Tom Cruise. Set in the year 2054, it depicts people
+   operating computers using hand gestures detected by sensors.
+   Gesture-based computing might sound odd--do you really want to dismiss
+   a document on your computer by airily waving it away?--but computer
+   mice were derided in 1983.
+
+   Today's gesture-based systems take many forms. iO, a company based in
+   Treviso, Italy, sells the Sensitive Wall, a large screen for banks and
+   showrooms that senses movement within a metre or so. Passers-by can
+   wave their hands to flip the pages of a virtual brochure through a
+   shop window, or view promotional images from different angles. "The
+   idea is to have the digital world melt into the physical world," says
+   iO's Daniele Modesto.
+
+                                                         Perceptive Pixel
+
+                              Perceptive Pixel
+
+   The "multi-touch" interface devised by Jeff Han, a researcher at New
+   York University's Courant Institute, is more elaborate. It is based on
+   a large touch screen (pictured) that can sense more than one touch at
+   a time. This makes possible two-handed gestures such as selecting an
+   area of an image, rotating it or zooming in and out. He believes this
+   sort of approach will have far wider appeal than today's windows and
+   mouse-based systems, and he has founded a start-up, called Perceptive
+   Pixel, to commercialise the technology.
+
+   Another version of a multi-touch screen, developed at Microsoft, shows
+   how the technology could be integrated into a home, office or shop, in
+   the form of a table. The Microsoft Surface, a horizontal touch-screen
+   computer with neither keyboard nor mouse, will go on sale in November.
+   Its gesture-based interface allows images and documents to be
+   manipulated; the table-like computer also recognises other devices
+   (such as digital cameras or mobile phones) when they are placed on top
+   of it, and can download images from them automatically.
+
+   Touch screens make computing feasible in new places, especially public
+   ones, by doing away with keyboards, which can get gummed up with grime
+   or spilled drinks. iSuppli, a market-research company based in El
+   Segundo, California, estimates that the wholesale touch-screen market
+   will expand by 17% this year to reach $2.8 billion. The incorporation
+   of touch screens into portable devices is one driver of this growth.
+   Apple's iPhone, launched in June, is a mobile phone with a
+   gesture-sensitive multi-touch screen. Objects can be moved on the
+   screen by dragging them with a finger, made bigger or smaller by
+   spreading or pinching them with two fingers, and discarded with a
+   flick off the screen's edge. Touch screens have particular appeal in
+   portable devices because virtual buttons and other controls appear on
+   screen only when required. The lack of a physical keyboard leaves more
+   room for a bigger screen.
+
+   Another alternative to the mouse as a pointing device is to use a
+   gaze-tracking camera, which works out where you are looking and moves
+   an on-screen pointer accordingly. A foot-pedal or keyboard switch then
+   replaces the click of a mouse button. So far such systems appeal
+   chiefly to disabled people who cannot use a conventional mouse.
+   Antonio Tessitore of Villa Literno, Italy, had to give up his job
+   after developing a degenerative muscular disease. Last year he began a
+   new full-time job at a charitable association, using a gaze-tracking
+   system that, he says, allows him to operate a computer with "no
+   limitations". Manu Kumar, a researcher at Stanford University in
+   California, is developing a gaze-tracking system called GUIDe aimed at
+   a broader market: people who share documents. It works out which parts
+   of documents people pay the most attention to, and highlights them
+   accordingly. Other HCI researchers are using microphones, webcams and
+   other sensors to try to work out what people are doing.
+
+   But making computers simpler to use will require more than novel input
+   devices. Smarter software is needed, too. For example, much effort is
+   going into the development of "context aware" systems that hide
+   unnecessary clutter and present options that are most likely to be
+   relevant, depending on what the user is doing.
+
+   Giving you what you want
+
+   The trick, says Patrick Brezillon of University Paris VI, is to get
+   computers to "size up the temperament of users" and then give them
+   what they want. This can be done by analysing the frequency of
+   keystrokes, the number of typos, the length of work breaks,
+   internet-search terms and background noise, among other things.
+
+   All sorts of things can be done with this information: playing
+   soothing music for agitated users, proposing a break if the number of
+   errors goes up, or suppressing notification of incoming e-mails to
+   avoid breaking someone's concentration. Albrecht Schmidt, an HCI
+   expert at the Bonn laboratory of the Fraunhofer Institute, one of
+   Europe's largest research organisations, says a mobile phone could
+   even change its behaviour depending on its location. One of his
+   prototype systems shuffles the queue of voice-mail messages to give
+   priority to messages from friends when the phone is out of the office.
+
+   The problem with all of this is that people may not want computers to
+   make assumptions about their needs and preferences--not least because
+   those assumptions may be wrong. But proponents of context-aware
+   computing say it is merely the next logical step from existing systems
+   such as spam filters. The next generation of e-mail filters, say HCI
+   researchers, will be "gradation" filters that delay notification or
+   delivery of certain e-mails to avoid bothering the recipient.
+
+                                                     Ronald Grant Archive
+                                                     Ronald Grant Archive
+
+                                           They said mice were silly, too
+
+   Henry Holtzman, a researcher at the Massachusetts Institute of
+   Technology, says vehicles provide the most promising environment for
+   context-aware interfaces. Since the position of the driver is fixed,
+   cars can be fitted with sensing equipment that would be obtrusive in
+   other contexts. Stopping mobile phones from ringing in heavy rain, or
+   during a sharp turn, he suggests, might prevent accidents. But, he
+   adds, if such decision-making by computers is to be accepted, people
+   must be convinced to trust it.
+
+   That could be difficult. Anind Dey, a researcher at Carnegie Mellon
+   University's HCI Institute in Pittsburgh, Pennsylvania, is designing a
+   vehicle-navigation system that tailors driving directions for
+   individual drivers. Cars fitted with sensors and cameras collect data
+   on the driving styles of test participants, including their
+   acceleration and braking patterns, assertiveness in changing lanes,
+   and so on. The navigation computer then picks a route that
+   accommodates each driver's strengths and weaknesses. The system works
+   fine--but when drivers are told what is happening, they get angry.
+   This suggests, says Mr Dey, that contextual computing needs to be
+   discreet: such systems are, in effect, judging people and trying to
+   influence their behaviour. Systems that manipulate people, he says,
+   may have to keep quiet about it to work.
+
+   Many futurists and computer experts believe that the logical
+   conclusion of all of these new input devices, sensors and smarter
+   software to anticipate users' needs, will be for computing to blend
+   into the background. In this "ubiquitous computing" model, computers
+   will no longer be things people use explicitly, any more than they
+   "use" electricity when turning on a light or a radio. Mr Greenfield
+   says a digital "dream world" that provides "one seamless experience of
+   being immersed in information" hinges on one big if: computers and
+   their interfaces must become so good that, like electricity, they
+   rarely require concentrated attention. The trouble with computers in
+   their current form is that they are still all too conspicuous.
+

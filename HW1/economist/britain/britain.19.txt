@@ -1,0 +1,186 @@
+
+   Clean technology: Architects believe that biologically inspired
+   designs can help to reduce the environmental impact of buildings
+
+        Ideas worth stealing: Grimshaw's proposed indoor rainforest
+
+   ARCHITECTS have long taken inspiration from nature. In ancient Egypt
+   columns were modelled on palm trees and lotus plants, and building
+   designers have borrowed the shapes and proportions of natural forms
+   ever since as they strived to achieve aesthetic perfection.
+
+   Some architects now believe that such biomimicry has more to offer
+   than simply making buildings look good. They are copying functional
+   systems found in nature to provide cooling, generate energy and even
+   to desalinate water. And they insist that doing these things using
+   biomimetic designs is not just a gimmick, but makes financial sense.
+   "It's often the case that green technology is considered to be
+   commercially unattractive," says Michael Pawlyn, an architect at
+   Grimshaw, the firm behind the Eden Project, a highly acclaimed biome
+   structure in England. That perception, he says, is wrong--and he has
+   the designs to prove it.
+
+   So far, the use of biomimetic features in buildings has been driven as
+   much by aesthetics as by function, and has been limited to relatively
+   simple, passive systems. The Arab World Institute in Paris, for
+   example, has an array of mechanical, eye-like irises on its
+   south-facing façade. These open and close to control the amount of
+   light entering the building, thereby regulating the internal
+   temperature.
+
+   Similarly there are now several buildings that have ventilation
+   systems based on those found in termite mounds. The Eastgate Centre, a
+   shopping centre and office block in Harare, Zimbabwe, has a mechanical
+   cooling system made up of vents and flues that help hot air out of the
+   structure. "It's the same principle as the chimney effect, but a bit
+   more controlled," says Professor George Jeronimidis, director of the
+   Centre for Biomimetics at the University of Reading. As hot air rises
+   and flows out through vents at the top of the building, cooler air is
+   drawn in at ground level.
+
+   Dr Jeronimidis is now taking this concept further by using adaptive
+   materials that flex in response to the level of moisture in the
+   air--an idea borrowed from the way pine-cones open and close. Using a
+   cellulose-like fibre composite, he has created a vent that changes
+   from one curved shape to another, depending on the relative levels of
+   moisture inside and outside a building. When warm, moist air builds up
+   inside the building, the vent opens to allow it to escape. But when
+   the air inside is dry, the vent stays shut and moist air from outdoors
+   is kept out. "In principle it can be made to respond naturally,
+   without any additional power," says Dr Jeronimidis.
+
+   Intelligent designs
+
+   Architects have become more interested in this sort of thing in recent
+   years, he says, as greater attention is paid to the energy consumption
+   and sustainability of buildings. Biology offers solutions to a range
+   of problems. "Nature has had the benefit of a pretty long R&D period,"
+   says Mr Pawlyn, who hopes to take the exploitation of natural designs
+   to a completely new level. His firm has borrowed a trick used by
+   fog-basking beetles and in the nostrils of camels for a novel
+   desalination plant.
+
+   When Grimshaw was given the brief to regenerate the Santa Catalina
+   Isthmus, a narrow stretch of land on the coast of Las Palmas in Grand
+   Canaria, the firm came up with the concept of a 3km (1.9 mile)
+   promenade with a theatre and botanic garden as its focus. But rather
+   than creating yet another drain on local resources the architects
+   wanted the structure to be cooled and irrigated by natural means. "We
+   decided to put forward a scheme that showed how the island could move
+   towards self-sufficiency in water and energy, without relying on
+   fossil fuels," says Mr Pawlyn.
+
+     Ideas worth stealing: a rendering of the proposed Las Palmas Water
+                  Theatre (left); the Eden Project (right)
+
+   This meant finding a way to turn seawater into clean drinking water
+   without expending too much energy. Fog-basking beetles, which are
+   found in Namibia, have an ingeniously simple way of doing this. They
+   hide underground during the day so that when they come out at night,
+   their dark backs are relatively cool compared with the ambient night
+   air. As moisture-laden breezes roll in from the Atlantic, the water in
+   the air condenses on the beetles' backs (just as a cold bottle of beer
+   left on a table causes water in the air to condense on its surface).
+   The beetles simply have to tilt their bodies to make the water trickle
+   into their mouths. A similar trick is also used by camels to prevent
+   them losing moisture as they exhale. Moisture secreted through the
+   nostrils evaporates as the camel breathes in, cooling the nostrils in
+   the process. When the camel breathes out, moisture within the air then
+   condenses on the nostrils.
+
+   Inspired by this, Mr Pawlyn and his colleagues have designed their
+   theatre around the same principles. A series of tall, vertical
+   evaporation "gills" are positioned so that they face towards the sea
+   and the incoming coastal breeze. Warm seawater, taken from close to
+   the surface, is pumped so that it trickles down these units. As the
+   breeze blows through the gills some of the seawater evaporates,
+   leaving salt behind. The clean, moist air then continues its journey
+   until it encounters a series of vertical condensing pipes. These are
+   kept cold by pumping deep-sea water, from 1,000 metres below the
+   surface, through them. As the moist, warm air hits the pipes the water
+   condenses and trickles down to be collected.
+
+   "You get a very powerful desalination effect," says Mr Pawlyn. This
+   system is able to supply enough water for the 70,000-square-metre
+   complex. A traditional flash-distillation desalination plant consumes
+   between five and 12 kilowatt hours (kWh) of energy per cubic metre of
+   water. The biomimetic approach, however, requires just 1.6 kWh per
+   cubic metre. And since the water pumps will be mostly powered by a
+   wind turbine, driven by the same prevailing winds that provide the
+   plant's airflow, the overall energy consumption of the site is reduced
+   even further. In the process, the same system can also help to cool
+   neighbouring buildings, says Mr Pawlyn.
+
+   Build me a rainforest
+
+   Although it is unclear whether this innovative project will go ahead,
+   the principles have already been tested by Charlie Paton, an engineer
+   who collaborated in the scheme. His organisation, Seawater Greenhouse,
+   has built pilot greenhouses that show this idea really works. The
+   catch is that it will only work in certain climates, says Mr Pawlyn.
+   "If you have a very dry and hot environment, the water readily
+   evaporates."
+
+   Nonetheless, Mr Pawlyn and his colleagues believe that biomimetic
+   principles can be taken even further, to generate new income as well
+   as reduce running costs and resource use. Natural ecosystems are
+   restorative, notes Mr Pawlyn. "They operate in a closed loop made up
+   of quite complex webs of different organisms," he says. "Man-made
+   structures tend not to do that." Instead, man-made systems tend to be
+   linear, consuming raw materials at one end and producing waste at the
+   other. The result is a gradual depletion of natural resources.
+
+   In an effort to reproduce a closed-loop system, Grimshaw has developed
+   a design for an indoor tropical rainforest. This botanical garden is
+   designed to sit on an existing landfill site and be a completely
+   carbon-neutral structure. For most of the year, heat to maintain the
+   hothouse will be provided by solar heating through a glazed roof.
+   During the colder months additional heating will come from landfill
+   biomass. The building is designed to be flanked by a number of large
+   vertical vessels into which biodegradable waste, originally intended
+   for the landfill, will be tossed. As the waste breaks down in these
+   large composting units, it reaches temperatures of up to 75°C, and
+   this heats the indoor garden.
+
+   This building will not only be carbon-neutral but will also generate
+   income, by providing the service of waste disposal. Some countries
+   impose landfill taxes of as much as £20 ($40) per tonne of waste. The
+   designers reckon that their proposed building could generate as much
+   as £7m ($14m) a year by acting as a substitute for a landfill site.
+   And in the true spirit of restorative closed-loops, the resulting
+   compost can be sold for agricultural use.
+
+   "Buildings should be able to pay for themselves," says Professor
+   Julian Vincent, director of the Centre for Biomimetics at the
+   University of Bath in England. At the moment, he says, most
+   biologically inspired systems used in architecture are simply
+   morphological. "This seems to me to lose the point of biomimetics," he
+   says. There is huge potential, but architects are only just beginning
+   to learn how to apply biomimetics in a more functional way, says
+   Michael Weinstock, director of the Architectural Association School of
+   Architecture in London. Not only large projects but smaller homes and
+   offices can benefit from the same principles, he insists. "One of our
+   ambitions is to ensure that every building ought to be able to
+   generate its own energy," he says.
+
+   Bringing biomimetics home
+
+   This need not require elaborate new structures like Grimshaw's theatre
+   or indoor rainforest. Biomimetics can be applied in simpler ways, too.
+   Smart paints which use a self-cleaning principle borrowed from lotus
+   leaves are now being tested. Once applied, the surface of the paint
+   takes the form of densely packed ridges or bumps, just like the
+   microscopic bumps found on lotus leaves. A property of such tiny bumps
+   is that they prevent drops of water from spreading out: the drops
+   simply roll off the surface instead, taking dirt with them.
+   (Self-cleaning glass relies on a similar principle.) And organic solar
+   cells, which mimic photosynthetic processes to capture light and
+   convert it into electricity, are arguably a form of biomimetic
+   technology, too.
+
+   "Part of the challenge, I believe, is to reconnect people with
+   resources," says Mr Pawlyn. He makes a strong case that borrowing
+   architectural ideas from nature can help to reduce the environmental
+   impact of buildings. In the process, it may also encourage people to
+   view natural systems with greater respect, in more ways than one.
+

@@ -1,0 +1,56 @@
+
+   Energy: Using photosynthesis to capture exhaust gases from power
+   plants could reduce the emissions produced by coal-fired stations
+
+   FOR its supporters, the idea of growing single-celled algae on exhaust
+   gas piped from power stations is the ultimate in recycling. For its
+   detractors, it is a mere pipe dream. Whoever turns out to be right,
+   though, it is an intriguing idea: instead of releasing the carbon
+   dioxide produced by burning fossil fuels into the atmosphere, why not
+   recapture it by photosynthesis? The result could then be turned into
+   biodiesel (since many species of algae store their food reserves as
+   oil), or even simply dried and fed back into the power station. Of
+   course, if it were really that easy, someone would have done it
+   already. But although no one has yet commercialised the technology,
+   several groups are trying.
+
+   One of them is GS CleanTech, which has developed a bioreactor based on
+   a patent held by a group of scientists at the Ohio Coal Research
+   Centre, at the University of Ohio. The GS CleanTech bioreactor uses a
+   parabolic mirror to funnel sunlight into fibre-optic cables that carry
+   the light to acrylic "glow plates" inside the reactor. These diffuse
+   the light over vertical sheets of polyester that form the platform on
+   which the algae grow. Eventually the polyester is unable to support
+   the weight of the algae, and they fall off into a collection duct
+   positioned underneath.
+
+   GreenFuel Technologies, based in Cambridge, Massachusetts, has a
+   different approach. Its reactor is composed of a series of clear
+   tubes, each with a second, opaque tube nested inside. This arrangement
+   makes it possible to bubble the exhaust gas down through the outer
+   compartment and then bubble it back up through the opaque middle. The
+   bubbling gas causes turbulence and circulates the algae around the
+   reactor. The constant shift between light and darkness as the algal
+   cells circulate increases the amount of carbon that they fix, probably
+   by promoting chemical reactions that occur naturally only at night.
+
+   A preliminary test of GreenFuel's reactor design, which was performed
+   at the Massachusetts Institute of Technology's campus power plant,
+   suggested that it can remove 75% of the carbon dioxide from a power
+   station's exhaust. A more serious test is now being carried out by
+   Arizona Public Service, that state's power utility, at its Redhawk
+   plant. Another test is planned in Louisiana.
+
+   GreenFuel claims that over the course of a year, a hectare (2.5 acres)
+   of its reactors should be able to produce 30,000 litres (8,000
+   American gallons) of oil, which could be used as biodiesel, and enough
+   carbohydrates to be fermented into 9,000 litres of ethanol, which can
+   be used as a substitute for petrol.
+
+   There is, of course, no free lunch. As Rob Carlson of the University
+   of Washington points out, if money is to be made selling products made
+   from exhaust gas, then that gas goes from being waste matter to being
+   a valuable resource. Far from giving it away, power companies might
+   even start charging for it. That would, indeed, be a reversal of
+   fortune.
+

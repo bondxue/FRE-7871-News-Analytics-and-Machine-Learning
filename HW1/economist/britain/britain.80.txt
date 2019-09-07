@@ -1,0 +1,56 @@
+
+   Medicine: A new device detects heartbeats and brain activity at a
+   distance, doing away with uncomfortable electrodes
+
+   AS ANYONE who has undergone an electrocardiograph (ECG) examination
+   knows, it is an uncomfortable procedure that involves sticky
+   electrodes which seem to want to rip out your body hair when they are
+   removed. This is because the current the electrodes detect is weak,
+   and a really good contact needs to be made between apparatus and skin.
+
+   Robert Prance and his colleagues at the University of Sussex, in
+   England, plan to do away with all that. They have developed a device
+   that can act as an ECG--or its cranial equivalent, an
+   electroencephalograph--without even touching the skin. It does so by
+   measuring the signal without drawing current, using "high impedance"
+   sensors.
+
+   Impedance is related to resistance--which, as generations of
+   schoolchildren have had drummed into them, is the ratio of voltage to
+   current. If current and voltage are fluctuating, however, other
+   factors come into play, as the current and voltage interact with each
+   other. Impedance is a measure of electrical resistance that captures
+   the effects of this feedback.
+
+   The advantage of using high-impedance sensors is that the signal--an
+   electric potential--can be measured at a distance. This is because the
+   resistance is so great that a layer of air makes no appreciable
+   difference. Indeed, Mr Prance's new device can pick up the trace of a
+   heartbeat from a metre away. It can also sense electrical activity in
+   the brain through the hair.
+
+   The result is a probe that can easily be picked up by medics and held
+   close to the patient. Wires attached to the back of the probe lead to
+   a computer that translates the electrical signals into a picture of
+   the heartbeat, brainwave or whatever. A test version developed by the
+   team was the size of a watch and was worn on the wrist. The final
+   version will be of similar size, but will not touch the skin.
+
+   Mr Prance hopes that his invention will not merely be more comfortable
+   than today's electrode-based detectors, but will also be able to do
+   new things. His team is experimenting with the use of many sensors in
+   combination to produce pictures of electrical activity in the heart.
+   An electrical wave traverses the heart each time it beats,
+   co-ordinating the contraction and relaxation of the chambers that pump
+   blood around the body. By joining 25 sensors together, the researchers
+   hope to demonstrate the technique's potential as a medical-imaging
+   tool. It would be difficult to do this trick with conventional
+   detectors.
+
+   Nor is the high-impedance technique restricted to medical
+   applications. It is already being adapted to look for faults in
+   microelectronic circuits, and it might eventually be used to test
+   mechanical components made of stainless steel or carbon fibre for
+   structural integrity. It could thus be used to give machines, as well
+   as people, a clean bill of health.
+

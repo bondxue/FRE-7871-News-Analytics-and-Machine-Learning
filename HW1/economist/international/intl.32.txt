@@ -1,0 +1,149 @@
+
+   A good graphic can tell a story, bring a lump to the throat, even
+   change policies. Here are three of history's best
+
+   IT WAS at a dinner party in 1856 that Florence Nightingale met William
+   Farr. The Lady of the Lamp was already famous for nursing British
+   soldiers wounded in the Crimea; Farr, the Compiler of Abstracts in the
+   General Registry Office, was widely recognised as an innovative
+   statistician. Both cared deeply about improving the world through
+   sanitation; both understood the importance of meticulous records in
+   providing the evidence needed to bring about change.
+
+                                                             Graphic News
+
+                                Graphic News
+
+   Farr was the first to compile "mortality tables", listing causes of
+   death in the general population; Nightingale compared his numbers with
+   her own on the deaths of soldiers to great effect. By showing that
+   even in peacetime a soldier faced twice the risk of dying in a given
+   year as a civilian, she campaigned successfully for better conditions
+   in barracks. The pair were instrumental in setting up a royal
+   commission of inquiry into sanitary conditions during the Crimean war.
+
+   Although remembered as the mother of modern nursing, Nightingale was
+   an accomplished statistician too. She was particularly innovative in
+   presenting data visually. The example above, of a type now known as
+   "Nightingale's Rose" or "Nightingale's Coxcomb", comes from her
+   monograph, "Notes on matters affecting the health, efficiency and
+   hospital administration of the British army" published in 1858. In the
+   same year she became the first female fellow of the Statistical
+   Society of London (now Royal Statistical Society).
+
+   The chart displays the causes of the deaths of soldiers during the
+   Crimean war, divided into three categories: "Preventible or Mitigable
+   Zymotic Diseases" (infectious diseases, including cholera and
+   dysentery, coloured in blue), "wounds" (red) and "all other causes"
+   (black). As with today's pie charts, the area of each wedge is
+   proportional to the figure it stands for, but it is the radius of each
+   slice (the distance from the common centre to the outer edge) rather
+   than the angle that is altered to achieve this. Her principal
+   message--that even during periods of heavy fighting, such as November
+   1854, far more soldiers died from infection than from wounds--can be
+   seen at a glance. She sent the chart to the War Office; and it is a
+   fair assumption that it contributed to the improvements in military
+   hospitals that she brought about.
+
+   Nightingale's chart is a beautiful and persuasive call to action, but
+   it is not perfect. The red, black and blue wedges are all measured
+   from the centre, so some areas mask parts of others. The numbers of
+   deaths from the various causes are not stated--although, to be fair,
+   it was their relative size that Nightingale wished to show.
+
+                                                             Graphic News
+
+                                Graphic News
+
+   The chart to the left also tells the story of a war: Napoleon's
+   Russian campaign of 1812. It was drawn half a century afterwards by
+   Charles Joseph Minard, a French civil engineer who worked on dams,
+   canals and bridges. He was 80 years old and long retired when, in
+   1861, he called on the innovative techniques he had invented for the
+   purpose of displaying flows of people, in order to tell the tragic
+   tale in a single image. Edward Tufte, whose book, "The Visual Display
+   of Quantitative Information" is a bible to statisticians, calls it
+   "the best statistical graphic ever drawn".
+
+   Minard's chart shows six types of information: geography, time,
+   temperature, the course and direction of the army's movement, and the
+   number of troops remaining. The widths of the gold (outward) and black
+   (returning) paths represent the size of the force, one millimetre to
+   10,000 men. Geographical features and major battles are marked and
+   named, and plummeting temperatures on the return journey are shown
+   along the bottom.
+
+   The chart tells the dreadful story with painful clarity: in 1812, the
+   Grand Army set out from Poland with a force of 422,000; only 100,000
+   reached Moscow; and only 10,000 returned. The detail and
+   understatement with which such horrifying loss is represented combine
+   to bring a lump to the throat. As men tried, and mostly failed, to
+   cross the Bérézina river under heavy attack, the width of the black
+   line halves: another 20,000 or so gone. The French now use the
+   expression "C'est la Bérézina" to describe a total disaster.
+
+   In 1871, the year after Minard died, his obituarist cited particularly
+   his graphical innovations: "For the dry and complicated columns of
+   statistical data, of which the analysis and the discussion always
+   require a great sustained mental effort, he had substituted images
+   mathematically proportioned, that the first glance takes in and knows
+   without fatigue, and which manifest immediately the natural
+   consequences or the comparisons unforeseen." The chart shown here is
+   singled out for special mention: it "inspires bitter reflections on
+   the cost to humanity of the madnesses of conquerors and the merciless
+   thirst of military glory".
+
+                                                             Graphic News
+
+                                Graphic News
+
+   The chart to the left is the earliest of our three. It was published
+   in 1821 by William Playfair, a Scottish engineer, political economist
+   and scoundrel: he was convicted of libel in England and swindling in
+   France. Alongside these many and varied skills he was also an engraver
+   (he produced some of James Watt's engineering drawings), which
+   explains this image's handsomeness, with its delicate shading and
+   ornate attribution.
+
+   Playfair liked controversial topics. He drew a chart comparing tax
+   levels in various countries in order to show that Britain's was too
+   high. He was the first to show imports and exports on one chart,
+   shading the area between the two to indicate the balance of trade and
+   explaining that the intersection of the lines showed a shift in favour
+   of one country or the other.
+
+   This chart, his most famous, shows the "weekly wages of a good
+   mechanic" and the "price of a quarter of wheat", with the reigns of
+   monarchs displayed along the top. It is a little difficult to see the
+   point Playfair wished to make: "that never at any former period was
+   wheat so cheap, in proportion to mechanical labour as it is at the
+   present time". Presumably he was not familiar with the idea of
+   combining two variables--prices and wages--to make a
+   third--affordability. Still, he should not be overly criticised for
+   this. For a start, his conclusion was correct. Statisticians have used
+   his data to plot wages divided by prices (showing how much wheat a
+   week's wages would buy) against time, and the point becomes clear--as,
+   incidentally, does a more subtle one: the increase in buying power was
+   slowing down.
+
+   And Playfair was already making a leap of abstraction that few of his
+   contemporaries could follow. Using the horizontal and vertical axes to
+   represent time and money was such a novelty that he had to explain it
+   painstakingly in accompanying text. "This method has struck several
+   persons as being fallacious", he wrote, "because geometrical
+   measurement has not any relation to money or to time; yet here it is
+   made to represent both."
+
+   He was the first in a series of economists, statisticians and social
+   reformers who wanted to use data not only to inform but also to
+   persuade and even campaign--and who understood that when the eye
+   comprehends, the heart often follows. Nightingale hoped her charts
+   would liven up her publications; the queen, she thought, might look at
+   the pictures, even if she did not read the words.
+
+   Not everyone thought it was right to include such fripperies in a
+   sober publication. "We do not want impressions, we want facts," Farr
+   wrote to her in 1861. "You complain that your report would be dry. The
+   dryer the better. Statistics should be the dryest of all reading."
+   Fortunately, she ignored him.
+

@@ -1,0 +1,66 @@
+
+   Energy: Researchers have developed an environmentally friendly light
+   bulb that uses very little energy and should never need changing
+
+                                                             Belle Mellor
+                                                             Belle Mellor
+
+   ALTHOUGH it symbolises a bright idea, the traditional incandescent
+   light bulb is a dud. It wastes huge amounts of electricity, radiating
+   95% of the energy it consumes as heat rather than light. Its life is
+   also relatively short, culminating in a dull pop as its filament
+   fractures. Now a team of researchers has devised a light bulb that is
+   not only much more energy-efficient--it is also expected to last
+   longer than the devices into which it is inserted. Moreover, the lamp
+   could be used for rear-projection televisions as well as general
+   illumination.
+
+   The trick to a longer life, for light bulbs at least, is to ensure
+   that the lamp has no electrodes. Although electrodes are undeniably
+   convenient for plugging bulbs directly into the lighting system, they
+   are also the main reason why lamps fail. The electrodes wear out. They
+   can react chemically with the gas inside the light bulb, making it
+   grow dimmer. They are also difficult to seal into the structure of the
+   bulb, making the rupture of these seals another potential source of
+   failure.
+
+   Scientists working for Ceravision, a company based in Milton Keynes,
+   in Britain, have designed a new form of lamp that eliminates the need
+   for electrodes. Their device uses microwaves to transform electricity
+   into light. It consists of a relatively small lump of aluminium oxide
+   into which a hole has been bored. When the aluminium oxide is
+   bombarded with microwaves generated from the same sort of device that
+   powers a microwave oven, a concentrated electric field is created
+   inside the void.
+
+   If a cylindrical capsule containing a suitable gas is inserted into
+   the hole, the atoms of the gas become ionised. As electrons accelerate
+   in the electric field, they gain energy that they pass on to the atoms
+   and molecules of the gas as they collide with them, creating a glowing
+   plasma. The resulting light is bright, and the process is
+   energy-efficient. Indeed, whereas traditional light bulbs emit just 5%
+   of their energy as light, and fluorescent tubes about 15%, the
+   Ceravision lamp has an efficiency greater than 50%.
+
+   Because the lamp has no filament, the scientists who developed it
+   think it will last for thousands of hours of use--in other words, for
+   decades. Moreover, the light it generates comes from what is almost a
+   single point, which means that the bulbs can be used in projectors and
+   televisions. Because of this, the light is much more directional and
+   the lamp could thus prove more efficient than bulbs that scatter light
+   in all directions. Its long life would make the new light ideal for
+   buildings in which the architecture makes changing light bulbs
+   complicated and expensive. The lamps' small size makes them comparable
+   to light-emitting diodes but the new lamp generates much brighter
+   light than those semiconductor devices do. A single microwave
+   generator can be used to power several lamps.
+
+   Another environmental advantage of the new design is that it does not
+   need mercury, a highly toxic metal found in most of the bulbs used
+   today, including energy-saving fluorescent bulbs, fluorescent tubes
+   and the high-pressure bulbs used in projectors. And Ceravision also
+   reckons it should be cheap to make. With lighting accounting for some
+   20% of electricity use worldwide, switching to a more efficient system
+   could both save energy and reduce emissions of climate-changing
+   greenhouse gases.
+

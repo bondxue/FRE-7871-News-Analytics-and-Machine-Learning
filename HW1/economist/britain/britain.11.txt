@@ -1,0 +1,59 @@
+
+   Why the government keeps on losing records
+
+   FOR many years Britain's tiny band of civil libertarians have been
+   trying to alert their countrymen to the danger of proliferating
+   government databases, which allow bureaucrats to share citizens'
+   information among themselves with the minimum of fuss. A string of
+   recent blunders have made their case more powerfully than years of
+   lobbying. The latest to emerge has been the loss earlier this year of
+   3m driving-test records held at a data centre in Iowa.
+
+   That unwelcome disclosure was made on December 17th, just after
+   Alistair Darling, the chancellor of the exchequer, had published a
+   preliminary report into a much bigger mistake. A month earlier, in a
+   charged parliamentary session, a shaken Mr Darling revealed that the
+   Treasury's tax agency, HMRC, had managed to lose two CDs containing
+   the records of 25m child-benefit claimants in the post. The
+   information included names, dates of birth and bank-account
+   details--everything an identity thief needs--and is reckoned to be the
+   world's second-biggest data blunder.
+
+   Mr Darling portrayed the loss as an unfortunate lapse by a junior
+   official that breached security guidelines. But in the weeks since the
+   revelation that has become a harder line to sell. After the loss of
+   the discs HMRC sent out a letter of apology to everyone affected. But
+   in its haste the tax authority made another mistake: the letters, many
+   of which will have missed their intended recipients, contained much
+   more personal information than was necessary to apologise. Tax
+   officials have admitted that data have disappeared from their offices
+   on eight occasions since 2005. A separate internal review of HMRC,
+   also published on December 17th, made what amounts to scathing
+   criticisms of the agency's management, albeit couched in bland
+   official-speak.
+
+   Other government departments have had their embarrassments, too. A
+   technical glitch allowed online visa applicants to see their fellow
+   applicants' details; a similar error allowed job-seeking junior
+   doctors to read their rivals' applications as well as their own. The
+   catalogue of mishaps has spurred ministers to promise reforms,
+   including compulsory encryption, simpler management at HMRC and
+   tougher penalties for those who break the law in the most egregious
+   ways.
+
+   Tougher sanctions may help, but much of the battle will be cultural.
+   Richard Thomas, the information commissioner, told a parliamentary
+   committee earlier in December that the weight of bad publicity was at
+   last having an effect, and that data rules were starting to be
+   followed more scrupulously. Not everyone agrees. "Not many people, and
+   not many organisations, take data protection fabulously seriously,"
+   says James Mitchell, a data-protection lawyer. Part of the reason, he
+   says, is weak penalties under British laws.
+
+   Others see a more fundamental problem. The Foundation for Information
+   Policy Research points out that data losses are an inevitable
+   consequence of the government's determination to build massive
+   databases to keep tabs on its citizens. And despite the embarrassments
+   of the past few weeks, it shows no sign of abandoning the biggest
+   project of all: its plan to introduce identity cards for everyone.
+

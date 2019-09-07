@@ -1,0 +1,366 @@
+
+   The second article in our series looks at the new technologies for
+   collecting personal information, and the dangers of abuse
+
+   IT USED to be easy to tell whether you were in a free country or a
+   dictatorship. In an old-time police state, the goons are everywhere,
+   both in person and through a web of informers that penetrates every
+   workplace, community and family. They glean whatever they can about
+   your political views, if you are careless enough to express them in
+   public, and your personal foibles. What they fail to pick up in the
+   café or canteen, they learn by reading your letters or tapping your
+   phone. The knowledge thus amassed is then stored on millions of
+   yellowing pieces of paper, typed or handwritten; from an old-time
+   dictator's viewpoint, exclusive access to these files is at least as
+   powerful an instrument of fear as any torture chamber. Only when a
+   regime falls will the files either be destroyed, or thrown open so
+   people can see which of their friends was an informer.
+
+                                                                       AP
+                                                                       AP
+
+                                 That old-time data: East Germany's files
+
+   These days, data about people's whereabouts, purchases, behaviour and
+   personal lives are gathered, stored and shared on a scale that no
+   dictator of the old school ever thought possible. Most of the time,
+   there is nothing obviously malign about this. Governments say they
+   need to gather data to ward off terrorism or protect public health;
+   corporations say they do it to deliver goods and services more
+   efficiently. But the ubiquity of electronic data-gathering and
+   processing--and above all, its acceptance by the public--is still
+   astonishing, even compared with a decade ago. Nor is it confined to
+   one region or political system.
+
+   In China, even as economic freedom burgeons, millions of city-dwellers
+   are being issued with obligatory high-tech "residency" cards. These
+   hold details of their ethnicity, religion, educational background,
+   police record and even reproductive history--a refinement of the
+   identity papers used by communist regimes.
+
+   Britain used to pride itself on respecting privacy more than most
+   other democracies do. But there is not much objection among Britons as
+   "talking" surveillance cameras, fitted with loudspeakers, are
+   installed, enabling human monitors to shout rebukes at anyone spotted
+   dropping litter, relieving themselves against a wall or engaging in
+   other "anti-social" behaviour.
+
+   Even smarter technology than that--the sort that has been designed to
+   fight 21st century wars--is being used in the fight against crime,
+   both petty and serious. In Britain, Italy and America, police are
+   experimenting with the use of miniature remote-controlled drone
+   aircraft, fitted with video cameras and infra-red night vision, to
+   detect "suspicious" behaviour in crowds. Weighing no more than a bag
+   of sugar and so quiet that it cannot be heard (or seen) when more than
+   50 metres (150 feet) from the ground, the battery-operated UAV
+   (unmanned aerial vehicle) can be flown even when out of sight by
+   virtue of the images beamed back to a field operator equipped with
+   special goggles. MW Power, the firm that distributes the technology in
+   Britain, has plans to add a "smart water" spray that would be squirted
+   at suspects, infusing their skin and clothes with genetic tags,
+   enabling police to identify them later.
+
+   Most of the time, the convenience of electronic technology, and the
+   perceived need to fight the bad guys, seems to outweigh any worries
+   about where it could lead. That is a recent development. On America's
+   religious right, it was common in the late 1990s to hear dark warnings
+   about the routine use of electronic barcodes in the retail trade: was
+   this not reminiscent of the "mark of the beast" without which "no man
+   might buy or sell", predicted in the final pages of the Bible? But
+   today's technophobes, religious or otherwise, are having to get used
+   to devices that they find even spookier.
+
+   Take radio-frequency identification (RFID) microchips, long used to
+   track goods and identify family pets; increasingly they are being
+   implanted in human beings. Such implants are used to help American
+   carers keep track of old people; to give employees access to
+   high-security areas (in Mexico and Ohio); and even to give willing
+   night-club patrons the chance to jump entry queues and dispense with
+   cash at the bar (in Spain and the Netherlands). Some people want
+   everyone to be implanted with RFIDs, as the answer to identity theft.
+
+   Across the rich and not-so-rich world, electronic devices are already
+   being used to keep tabs on ordinary citizens as never before.
+   Closed-circuit television cameras (CCTV) with infra-red night vision
+   peer down at citizens from street corners, and in banks, airports and
+   shopping malls. Every time someone clicks on a web page, makes a phone
+   call, uses a credit card, or checks in with a microchipped pass at
+   work, that person leaves a data trail that can later be tracked. Every
+   day, billions of bits of such personal data are stored, sifted,
+   analysed, cross-referenced with other information and, in many cases,
+   used to build up profiles to predict possible future behaviour.
+   Sometimes this information is collected by governments; mostly it is
+   gathered by companies, though in many cases they are obliged to make
+   it available to law-enforcement agencies and other state bodies when
+   asked.
+
+   Follow the data
+
+   The more data are collected and stored, the greater the potential for
+   "data mining"--using mathematical formulas to sift through large sets
+   of data to discover patterns and predict future behaviour. If the
+   public had any strong concerns about the legitimacy of this process,
+   many of them evaporated on September 11th 2001--when it became widely
+   accepted that against a deadly and globally networked enemy, every
+   stratagem was needed. Techniques for processing personal information,
+   which might have raised eyebrows in the world before 2001, suddenly
+   seemed indispensable.
+
+   Two days after the attacks on New York and Washington, Frank Asher, a
+   drug dealer turned technology entrepreneur, decided to examine the
+   data amassed on 450m people by his private data-service company,
+   Seisint, to see if he could identify possible terrorists. After giving
+   each person a risk score based on name, religion, travel history,
+   reading preferences and so on, Mr Asher came up with a list of 1,200
+   "suspicious" individuals, which he handed to the FBI. Unknown to him,
+   five of the terrorist hijackers were on his list.
+
+   The FBI was impressed. Rebranded the Multistate Anti-Terrorism
+   Information Exchange, or Matrix, Mr Asher's programme, now taken over
+   by the FBI, could soon access 20 billion pieces of information, all of
+   them churned and sorted and analysed to predict who might one day turn
+   into a terrorist. A new version, called the System to Assess Risk, or
+   STAR, has just been launched using information drawn from both private
+   and public databases. As most of the data have already been disclosed
+   to third parties--airline tickets, job records, car rentals and the
+   like--they are not covered by the American constitution's Fourth
+   Amendment, so no court warrant is required.
+
+   In an age of global terror, when governments are desperately trying to
+   pre-empt future attacks, such profiling has become a favourite tool.
+   But although it can predict the behaviour of large groups, this
+   technique is "incredibly inaccurate" when it comes to individuals,
+   says Simon Wessely, a professor of psychiatry at King's College
+   London. Bruce Schneier, an American security guru, agrees. Mining vast
+   amounts of data for well-established behaviour patterns, such as
+   credit-card fraud, works very well, he says. But it is
+   "extraordinarily unreliable" when sniffing out terrorist plots, which
+   are uncommon and rarely have a well-defined profile.
+
+   By way of example, Mr Schneier points to the Automated Targeting
+   System, operated by the American Customs and Border Protection, which
+   assigns a terrorist risk-assessment score to anyone entering or
+   leaving the United States. In 2005 some 431m people were processed.
+   Assuming an unrealistically accurate model able to identify terrorists
+   (and innocent people) with 99.9% accuracy, that means some 431,000
+   false alarms annually, all of which presumably need checking. Given
+   the unreliability of passenger data, the real number is likely to be
+   far higher, he says.
+
+   Those caught up in terrorist-profiling systems are not allowed to know
+   their scores or challenge the data. Yet their profiles, which may be
+   shared with federal, state and even foreign governments, could damage
+   their chances of getting a state job, a student grant, a public
+   contract or a visa. It could even prevent them from ever being able to
+   fly again. Such mistakes are rife, as the unmistakable Senator "Ted"
+   Kennedy found to his cost. In the space of a single month in 2004, he
+   was prevented five times from getting on a flight because the name "T
+   Kennedy" had been used by a suspected terrorist on a secret "no-fly"
+   list.
+
+   Watching everybody
+
+   Another worry: whereas information on people used to be gathered
+   selectively--following a suspect's car, for example--it is now
+   gathered indiscriminately. The best example of such universal
+   surveillance is the spread of CCTV cameras. With an estimated 5m CCTV
+   cameras in public places, nearly one for every ten inhabitants,
+   England and Wales are among the most closely scrutinised countries in
+   the world--along with America which has an estimated 30m surveillance
+   cameras, again one for every ten inhabitants. Every Briton can expect
+   to be caught on camera on average some 300 times a day. Few seem to
+   mind, despite research suggesting that CCTV does little to deter
+   overall crime.
+
+   In any case, says Britain's "NO2ID" movement, a lobby group that is
+   resisting government plans to introduce identity cards, cameras are a
+   less important issue than the emergence of a "database state" in which
+   the personal records of every citizen are encoded and too easily
+   accessible.
+
+   Alongside fingerprints, DNA has also become an increasingly popular
+   tool to help detect terrorists and solve crime. Here again Britain
+   (minus Scotland) is a world leader, with the DNA samples of 4.1m
+   individuals, representing 7% of the population, on its national
+   database, set up in 1995. (Most other EU countries have no more than
+   100,000 profiles on their DNA databases.) The British database
+   includes samples from one in three black males and nearly 900,000
+   juveniles between ten and 17--all tagged for life as possible
+   criminals, since inclusion in the database indicates that someone has
+   had a run-in with the law. This is because in Britain, DNA is taken
+   from anyone arrested for a "recordable" offence--usually one carrying
+   a custodial sentence, but including such peccadillos as begging or
+   being drunk and disorderly. It is then stored for life, even if that
+   person is never charged or is later acquitted. No other democracy does
+   this.
+
+   In America, the federal DNA databank holds 4.6m profiles, representing
+   1.5% of the population. But nearly all are from convicted criminals.
+   Since January 2006 the FBI has been permitted to take DNA samples on
+   arrest, but these can be expunged, at the suspect's request, if no
+   charges are brought or if he is later acquitted. Of some 40 states
+   that have their own DNA databases, only California allows the
+   permanent storage of samples of those charged, but later cleared. In
+   Britain, where people cannot ask for samples to be removed from the
+   database, it was recently proposed that the best way to prevent
+   discrimination is therefore to include the whole population in the DNA
+   database, plus all visitors to the country. Although this approach is
+   commendably fair, it would be extremely expensive as well as an
+   administrative nightmare.
+
+   In popular culture, the use of DNA has become rather glamorous.
+   Tabloids and television dramas tell stories of DNA being used by
+   police to find kidnappers or exonerate convicts on death row.
+   According to a poll carried out for a BBC "Panorama" programme this
+   week, two-thirds of Britons would favour a new law requiring that
+   everyone's DNA be stored. But DNA is less reliable as a
+   crime-detection tool than most people think. Although it almost never
+   provides a false "negative" reading, it can produce false "positives".
+   Professor Allan Jamieson, director of the Forensic Institute in
+   Glasgow, believes too much faith is placed in it. As he points out, a
+   person can transfer DNA to a place, or weapon, that he (or she) has
+   never seen or touched.
+
+   Wiretapping is too easy
+
+   More disturbing for most Americans are the greatly expanded powers the
+   government has given itself over the past six years to spy on its
+   citizens. Under the Patriot Act, rushed through after the 2001
+   attacks, the intelligence services and the FBI can now oblige third
+   parties--internet providers, libraries, phone companies, political
+   parties and the like--to hand over an individual's personal data,
+   without a court warrant or that person's knowledge, if they claim that
+   the information is needed for "an authorised investigation" in
+   connection with international terrorism. (Earlier this month, a
+   federal court in New York held this to be unconstitutional.)
+
+   Under the Patriot Act's "sneak and peek" provisions, a person's house
+   or office can likewise now be searched without his knowledge or a
+   prior court warrant. The act also expanded the administration's
+   ability to intercept private e-mails and phone calls, though for this
+   a court warrant was supposedly still needed. But in his capacity as
+   wartime commander-in-chief, George Bush decided to ignore this
+   requirement and set up his own secret "warrantless" eavesdropping
+   programme.
+
+   The outcry when this was revealed was deafening, and the programme was
+   dropped. But in August Mr Bush signed into law an amendment to the
+   1978 Foreign Intelligence Surveillance Act, allowing the warrantless
+   intercept of phone calls and e-mails if at least one of the parties is
+   "reasonably believed" to be outside America. So ordinary Americans
+   will continue to be spied on without the need for warrants--but no one
+   is protesting, because now it is legal.
+
+   Where's your warrant?
+
+   According to defenders of warrantless interception, requiring warrants
+   for all government surveillance would dramatically limit the stream of
+   foreign intelligence available. Privacy should not be elevated above
+   all other concerns, they argue. But would it really impede
+   law-enforcement that much if a judge was required to issue a warrant
+   on each occasion? Technology makes wiretapping much easier than it
+   used to be--too easy, perhaps--so requiring warrants would help to
+   restore the balance, say privacy advocates.
+
+   Britain has long permitted the "warrantless" eavesdropping of its
+   citizens (only the home secretary's authorisation is required), and
+   few people appear to mind. What does seem to worry people is the sheer
+   volume of information now being kept on them and the degree to which
+   it is being made accessible to an ever wider group of individuals and
+   agencies. The government is now developing the world's first national
+   children's database for every child under 18. The National Health
+   Service database, already the biggest of its kind in Europe, will
+   eventually hold the medical records of all 53m people in England and
+   Wales.
+
+   Even more controversial is Britain's National Identity Register, due
+   to hold up to 49 different items on everyone living in the country.
+   From 2009, everybody is to be issued with a "smart" biometric ID card,
+   linked to the national register, which will be required for access to
+   public services such as doctors' surgeries, unemployment offices,
+   libraries and the like--leaving a new, readily traceable, electronic
+   data-trail. America plans a similar system, with a string of personal
+   data held on a new "smart" national driver's licence that would double
+   up as an ID.
+
+   Companies are also amassing huge amounts of data about people. Most
+   people do not think about what information they are handing over when
+   they use their credit or shop "loyalty" card, buy something online or
+   sign up for a loan. Nor do they usually have much idea of the use to
+   which such data are subsequently put. Not only do companies "mine"
+   them to target their advertising more effectively, for example, but
+   also to give their more valued (ie, higher-spending) customers better
+   service. They may also "share" their data with the police--without the
+   individual's consent or knowledge.
+
+   Most democratic countries now have comprehensive data-protection
+   and/or privacy laws, laying down strict rules for the collection,
+   storage and use of personal data. There is also often a national
+   information or privacy commissioner to police it all (though not in
+   America). Intelligence agencies, and law-enforcement authorities often
+   as well, are usually exempt from such data-protection laws whenever
+   national security is involved. But such laws generally stipulate that
+   the data be used only for a specific purpose, held no longer than
+   necessary, kept accurate and up-to-date and protected from
+   unauthorised prying.
+
+   That all sounds great. But as a series of leaks in the past few years
+   has shown, no data are ever really secure. Laptops containing
+   sensitive data are stolen from cars, backup tapes go missing in
+   transit and hackers can break into databases, even the Pentagon's.
+   Then there are "insider attacks", in which people abuse the access
+   they enjoy through their jobs. National Health Service workers in
+   Britain were recently reported to have peeked at the intimate medical
+   details of an unnamed celebrity. All of this can lead to invasions of
+   privacy and identity theft. As the Surveillance Studies Network
+   concludes in its recent report on the "surveillance society", drawn up
+   for Britain's information commissioner, Richard Thomas, "The jury is
+   out on whether privacy regulation...is not ineffective in the face of
+   novel threats."
+
+   Boiling the frog
+
+   If the erosion of individual privacy began long before 2001, it has
+   accelerated enormously since. And by no means always to bad effect:
+   suicide-bombers, by their very nature, may not be deterred by a CCTV
+   camera (even a talking one), but security wonks say many terrorist
+   plots have been foiled, and lives saved, through increased
+   eavesdropping, computer profiling and "sneak and peek" searches. But
+   at what cost to civil liberties?
+
+   Privacy is a modern "right". It is not even mentioned in the
+   18th-century revolutionaries' list of demands. Indeed, it was not
+   explicitly enshrined in international human-rights laws and treaties
+   until after the second world war. Few people outside the
+   civil-liberties community seem to be really worried about its loss
+   now.
+
+   That may be because electronic surveillance has not yet had a big
+   impact on most people's lives, other than (usually) making it easier
+   to deal with officialdom. But with the collection and centralisation
+   of such vast amounts of data, the potential for abuse is huge and the
+   safeguards paltry.
+
+   Ross Anderson, a professor at Cambridge University in Britain, has
+   compared the present situation to a "boiled frog"--which fails to jump
+   out of the saucepan as the water gradually heats. If liberty is eroded
+   slowly, people will get used to it. He added a caveat: it was possible
+   the invasion of privacy would reach a critical mass and prompt a
+   revolt.
+
+   If there is not much sign of that in Western democracies, this may be
+   because most people rightly or wrongly trust their own authorities to
+   fight the good fight against terrorism, and avoid abusing the data
+   they possess. The prospect is much scarier in countries like Russia
+   and China, which have embraced capitalist technology and the
+   information revolution without entirely exorcising the ethos of an
+   authoritarian state where dissent, however peaceful, is closely
+   monitored.
+
+   On the face of things, the information age renders impossible an
+   old-fashioned, file-collecting dictatorship, based on a state monopoly
+   of communications. But imagine what sort of state may emerge as the
+   best brains of a secret police force--a force whose house culture
+   treats all dissent as dangerous--perfect the art of gathering and
+   using information on massive computer banks, not yellowing paper.
+

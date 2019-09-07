@@ -1,0 +1,91 @@
+
+   HOUSTON--NASA administrator Michael Griffin announced during a press
+   conference Tuesday that the space agency is launching an ambitious
+   mission to make Houston's Johnson Space Center wireless-Internet
+   capable within one decade.
+   [4]Enlarge Image Mission Control Center 
+
+   Frustrated Mission Control Center staff experience yet another dial-up
+   disconnection while browsing the web Tuesday.
+
+   "We are entering a new era for NASA," Griffin said during a slide show
+   for reporters showing conceptual illustrations of a wireless modem
+   that would be used in all of the agency's offices and laboratories
+   that use personal computers. "We are not content to rest on our
+   laurels. It may seem like an impossible task, but if we commit all of
+   our focus, technology, and resources, we can get Wi-Fi into NASA's
+   offices and research labs within our generation."
+
+   Griffin was confident that NASA's estimated $655 million plan to
+   install a wireless broadband router by 2017 could reap huge benefits
+   for the entire space agency.
+
+   "In a few short years, all NASA employees will be able to check their
+   e-mail throughout the complex, even in the cafeteria," Griffin said.
+
+   According to agency officials, accessing the Internet has been an
+   ongoing struggle for NASA. Still relying on a single dial-up modem,
+   employees nevertheless continue to get disconnected from the Internet
+   whenever the Johnson Space Center receives an incoming call or someone
+   picks up the phone to dial out. In 2005, NASA attempted to upgrade
+   from dial-up to DSL, but the program was aborted when engineers were
+   unable to get the Ethernet hub to function.
+
+   While the building that houses the public affairs office can currently
+   pick up a weak Wi-Fi signal from a Starbucks across the street, the
+   Johnson Space Center as a whole is far from being the "giant Wi-Fi
+   hotspot" Griffin envisions.
+
+   "If NASA is to fulfill its vision of a working environment of today,
+   we will need to develop existing technologies to ensure Internet
+   connectivity can be sustained without employees becoming entangled in
+   cords," Griffin said.
+   [5]Enlarge Image Commanders 
+
+   Commanders Scott Dreisen and Alan Wittmer explore a Houston-area Best
+   Buy for possible signs of wireless routers in NASA's heroic first
+   steps into the Wi-Fi Age.
+
+   If federal funding is approved, NASA will begin its search for
+   wireless capability by sending a series of robotic probes into the
+   depths of the Johnson Space Center, exploring the surfaces of desks
+   and tables to search for the most viable modem base. Once the probes
+   have photographed the area, the information they have gathered will be
+   transmitted back to Houston's Mission Control Center for analysis.
+
+   Griffin said that the agency has also recruited seven information
+   technology specialists from some of the nation's top white-collar
+   regional workplaces. The seven mission specialists in the newly dubbed
+   "Internet Explorer" program are being rigorously trained to install
+   the theoretical wireless devices in an Earth-gravity environment in
+   which they could encounter potentially arduous conditions such as poor
+   air ventilation and lifeless workscapes.
+
+   Since spring, NASA has also conducted some preliminary, small-scale
+   reconnaissance missions to a Houston-area Best Buy, where crews
+   conducted research and compared prices. Scientists within the agency
+   say early data from the trips is promising, showing a generous return
+   policy and an extended warranty plan. In addition, researchers have
+   investigated the digital cable setup at veteran space shuttle
+   astronaut Ken Bowersox's house.
+
+   NASA has suffered from a public credibility crisis in recent years due
+   to perceived incompetence, a failed mission to Mars, the damaged and
+   dormant Hubble telescope, and its inability to procure a long enough
+   USB cable to reach all the way over to engineer William Chen's
+   cubicle. But NASA officials argue that a secure high-speed line could
+   prevent disasters such as a 2005 incident in which an employee
+   attempting to download the movie trailer for Cheaper by the Dozen 2
+   crashed the Mission Control Center mainframe computer for two weeks.
+
+   Griffin may have an uphill battle convincing Congress to fund the
+   project. As the NASA administrator himself admitted at the press
+   conference, even if a workable wireless router is successfully
+   purchased, engineers will need at least an additional two years to
+   examine the owner's manual before attempting to install the
+   complicated equipment.
+
+   Once the wireless local area network is completed, Griffin said that
+   NASA will embark on its next great project: constructing a laptop
+   capable of taking advantage of Wi-Fi's high-speed access by 2037.
+

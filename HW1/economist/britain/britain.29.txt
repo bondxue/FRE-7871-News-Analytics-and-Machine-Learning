@@ -1,0 +1,113 @@
+
+   Technology and society: Is the outbreak of cancer videos, bulimia
+   blogs and other forms of "user generated" medical information a
+   healthy trend?
+
+
+   VIDEOS of skateboarding dogs on YouTube might not appear to have
+   anything to do with blogs about living with asthma. But the rise of
+   "user-generated content"--spurred by sites such as YouTube, Facebook
+   and Wikipedia--has also infected health care. Millions are now logging
+   on to contribute information about topics stretching from avian-flu
+   pandemics to the extraction of wisdom teeth or the use of acupuncture
+   to overcome infertility. You could call it user-generated health care,
+   or Health 2.0.
+
+   In some ways this is nothing new. The BrainTalk Communities, an online
+   support group for neurology patients, began in 1993. But content now
+   comes in different forms, such as blogs and videos, and there are many
+   more contributors. More than 20% of American internet users have
+   created some sort of health-related content, according to Jupiter, a
+   market-research firm. The hype around "Web 2.0" has made people aware
+   of the new possibilities, says John Grohol, a psychologist who
+   launched PsychCentral.com, a mental-health website, in 1995. The
+   result, he says, has been a "snowball effect" of new content and new
+   users.
+
+   To gauge the size of this snowball, look at OrganizedWisdom, a firm
+   based in New York. It launched in October 2006 as a health-care
+   Wikipedia of sorts: a site to which consumers could contribute their
+   own nuggets of health wisdom. Yet after only a few months it
+   transformed itself into an index of the existing web content. The
+   firm's founders had discovered that there already was quite enough
+   user-generated health information online; the real problem was finding
+   the good stuff.
+
+   The explosion of user-generated content in health care is, in part,
+   the result of broader internet trends: more and more people have
+   broadband access and the tools for creating content are getting easier
+   to use. New software, for instance, makes it easy to launch and
+   maintain a site such as FluWikie (which provides information about
+   preparing for an influenza pandemic), and digital cameras make it a
+   snap to take and upload photos of, say, epigastric hernia surgery.
+
+   But there are other drivers, too. Those with multiple chronic
+   conditions, such as diabetes and depression, or lesser-known illnesses
+   such as chronic fatigue syndrome, are anxious to get tips from others
+   in similar situations. And today's body of medical knowledge is too
+   vast for any one doctor to know it all. Cathy Fischer, a producer at a
+   non-profit television company in San Francisco, for example, was not
+   getting the information she needed from her doctor. So she joined an
+   online group to connect with others who, like her, had undergone
+   fibroid surgery.
+
+   In some ways it is strange that there is so much discussion of
+   health-related matters online, given that health, like money, is a
+   topic that many people will not discuss even with family members.
+   People do not seem to realise how permanent information can be online,
+   warns Jennifer King, a researcher at the University of California in
+   Berkeley. She worries that personal data could be misused. Some sites
+   mitigate that risk by recommending the use of pseudonyms. So Meg7
+   talks about her family's struggle with Lou Gehrig's disease, Aprilly
+   shares information about babies with colic, and jojo1972 writes about
+   how she handles migraine headaches.
+
+   Misinformation is another worry. On the internet, as the old saying
+   goes, nobody knows you are a dog--or an idiot, notes Dan Keldsen of
+   AIIM, a non-profit association based in Silver Spring, Maryland, which
+   helps companies manage digital information. And too much health
+   information can confuse people, says Monique Levy of Jupiter. But a
+   survey by the Pew Internet & American Life Project in Washington, DC,
+   suggests that although user-generated information offers consumers
+   more health options, the upside outweighs the risk, says Pew's
+   Susannah Fox. Nearly one-third of the 100m Americans who have looked
+   for health information online say that they or people they know have
+   been significantly helped by what they found. In contrast, only 3%
+   reported that online advice had caused serious harm.
+
+   A lot of user-generated health information is accurate. A panel of
+   neurology specialists judged that only 6% of information posted in the
+   epilepsy-support group of BrainTalk was factually wrong, according to
+   a study published in 2004 in the British Medical Journal. And with
+   enough people online, misinformation is often quickly corrected.
+   Inaccurate posts on the [3]website of the Association of Cancer Online
+   Resources (ACOR), for example, will be pointed out within two hours,
+   says Gilles Frydman, the founder of the association, based in New
+   York.
+
+   In some cases web-based information from other sufferers can be a
+   patient's best hope. In the BrainTalk study, 40% of respondents said
+   they used the site because their doctors did not or could not answer
+   their questions. But the internet's power to connect people means that
+   a person diagnosed with a rare form of cancer can find hundreds of
+   other people across the world who can recommend doctors or provide
+   first-hand information about treatment, explains Mr Frydman. He
+   founded ACOR in 1996 after his wife was given inaccurate information
+   about the treatment she needed for breast cancer. Given the potential
+   benefits, the risk of giving up some privacy seems insignificant, he
+   says. "If I am diagnosed with a rare cancer, I will think for two
+   minutes, and then I will agree that giving up my privacy is
+   worthwhile."
+
+   Some observers expect even greater benefits from user-generated health
+   sites in future. Patients who live with chronic diseases such as
+   epilepsy often know more about them than their doctors, contends
+   Daniel Hoch, a professor at Harvard Medical School who helped to found
+   BrainTalk. Many doctors, he says, "don't get the wisdom of crowds."
+   But he thinks the combined knowledge of a crowd of his patients would
+   be far greater than his own. A wiki capturing the knowledge of, say,
+   300 epileptics could be invaluable not only to others with epilepsy,
+   but also to the medical professionals who care for them. Their
+   aggregated understanding, he says, "would be helpful to all health
+   care."
+

@@ -1,0 +1,111 @@
+
+   Telecommunications: The idea of sending information through the air in
+   the form of flashes of light is being given a high-tech makeover
+
+                                                                    Alamy
+
+                                   Alamy
+
+   WHEN most people switch on a desk lamp, they usually want a little
+   extra illumination. But not John Goodey, an engineering student at
+   Oxford University. When he flicks the switch and turns on his lamp, a
+   sensor on his desk downloads music tracks digitally encoded within
+   tiny flickers in the lamp's light. The music is then relayed through a
+   pair of nearby speakers. This unusual set-up offers a glimpse of a
+   future in which light, rather than radio waves, is used to send
+   information. The concept, known as optical wireless or free-space
+   optics (FSO), promises better security and higher data-transfer rates
+   (up to 10 gigabits per second) than existing radio-based
+   communications technologies, says Dominic O'Brien, a leading engineer
+   in the field and Mr Goodey's research supervisor at Oxford.
+
+   FSO is already used in a few niches: to connect networks in nearby
+   offices without having to string cables between them, for example. But
+   plans are afoot to extend the idea into a number of new areas. For
+   example, the subtle flickering of car headlights and tail-lights could
+   be used to transmit speed and braking information to other vehicles,
+   to help prevent collisions. Traffic lights could alert cars when they
+   are about to change, or broadcast the latest congestion update to
+   waiting vehicles. In the home, FSO could be used together with
+   interior lighting to provide extremely fast internet downloads. Since
+   light does not travel through walls, there would be no need to worry
+   about neighbours snooping on your e-mail, or piggybacking on your
+   broadband connection.
+
+   Futuristic though this sounds, FSO is by no means a new idea. Soldiers
+   in ancient Greece used polished shields to send battle orders to each
+   other over vast distances in the form of flashes of sunlight. More
+   recently, so-called "heliographs" have been used to relay military
+   signals in a similar way. And it is only in the past ten years that
+   the British navy has phased out its use of Aldis lamps to convey Morse
+   code signals from ship to ship. Yet just as this old analogue
+   technology was being retired, its new digital counterpart was making
+   its debut. In the past few years a small number of companies, such as
+   Terabeam, LightPointe and Cablefree Solutions, began offering
+   businesses point-to-point optical systems that could send data between
+   buildings.
+
+   These early optical systems were capable of sending information at a
+   rate of hundreds of megabits per second (Mbps), but customers usually
+   wanted only about 10Mbps, says Stephen Patrick of Cablefree. Back then
+   the attraction was not speed but convenience, he says. Advocates of
+   FSO like to say it has the speed of a fibre-optic link, and the
+   convenience of a wireless link. It is easy to set up: simply hook up
+   infra-red laser transceivers on top of two buildings and then align
+   them. "The cost to install is very low," says Mr Patrick.
+
+   There is no messing about with radio-spectrum licences or digging up
+   roads, and FSO can also bypass prohibitive planning restrictions. In
+   places where transmitters are not allowed on roofs, for example,
+   indoor FSO transceivers can simply send and receive data through
+   closed windows. FSO is also secure: the only way to intercept the
+   signal is physically to intercept the beam.
+
+   As a result, hundreds of businesses, hospitals and universities are
+   already using FSO. City skylines are not criss-crossed with grids of
+   laser beams because it is all done using invisible infra-red light,
+   says Mr O'Brien. Today's technology can transmit data up to 4km (2.5
+   miles) at speeds of 1-3 gigabits per second (Gbps).
+
+   Telecoms operators are starting to take an interest in the technology
+   as an alternative to the microwave-radio "backhaul" links that are
+   used to link mobile-phone base-stations to operators' core networks.
+   FSO's main drawback is that bad weather, such as rain or fog, can
+   interrupt the signal. But Mr Patrick notes that microwave links are
+   also prone to atmospheric interference. Provided FSO is set up over
+   relatively short distances--say several hundred metres--it is a
+   reliable technology, he says.
+
+   There is no need to worry about bad weather when using FSO indoors, of
+   course. But maintaining a line of sight can be a problem for a laptop
+   that is being carried around within a home or office. One solution is
+   to use a diffuse light source rather than a laser beam, says Mr
+   O'Brien. Using the natural reflectivity of ceilings and walls, a
+   transmitted infra-red signal can be received by any number of
+   receivers within a room. But this approach reduces the pace at which
+   information can be transferred. "Most of the light doesn't go where
+   you want it to," says Mr O'Brien. Nor is it possible simply to crank
+   up the power of the source beam, because infra-red light at high
+   intensity can cause eye damage.
+
+   So Mr O'Brien has been working on a ceiling-based system that tracks
+   where a receiving device is, and then sends it a signal using several
+   laser beams from a directional transmitter. He has built a prototype
+   that runs at 300Mbps, nearly six times faster than today's typical
+   Wi-Fi links and reckons that speeds of up to 10 Gbps are feasible.
+   That is not to say that Wi-Fi is obsolete. Instead, the two
+   technologies may end up being used together: Wi-Fi as the uplink, and
+   FSO for the much faster downlink.
+
+   The long-term hope is to transmit data using visible light emitted by
+   indoor lighting. In Japan the Visible Light Communications Consortium,
+   made up of industrial giants such as Sony, Toshiba and NEC, is
+   pursuing just that goal. FSO is not possible with existing indoor
+   lighting because incandescent bulbs cannot switch on and off fast
+   enough. But that is not a problem for white light-emitting diodes
+   (LEDs), which are expected to become far more widespread in the coming
+   years, because they use less energy and are more versatile than
+   incandescent bulbs. The combination of LEDs and FSOcould then be used
+   to provide internet coverage throughout a home or office. Could it be
+   lights out for radio networking?
+

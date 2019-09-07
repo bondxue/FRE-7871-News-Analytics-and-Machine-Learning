@@ -1,0 +1,306 @@
+
+   Energy: Attitudes to nuclear power are shifting in response to climate
+   change and fears over the security of the supply of fossil fuels. The
+   technology of nuclear power has been changing, too
+
+                                                                    Alamy
+
+                                   Alamy
+
+   OVER the next few decades global electricity consumption is expected
+   to double. At the same time, many power plants in rich countries,
+   built back in the 1960s and 1970s, are nearing the end of their
+   projected lifespans. Meanwhile, concern is swelling both about global
+   warming, and about the Western world's increasing dependence on a
+   shrinking number of hostile or unstable countries for imports of oil
+   and gas. The solution to this conundrum, in the eyes of many
+   governments, is nuclear power.
+
+   Around the world, 31 reactors are under construction and many more are
+   in the planning stages. Some of the most ambitious programmes are
+   under way in developing countries. Both China and India are building
+   several reactors and intend to increase their nuclear-generating
+   capacity several times over in the next 15 years. Some countries, such
+   as Turkey and Vietnam, are considering starting nuclear-power
+   programmes, and others, including Argentina and South Africa, plan to
+   expand their existing ones.
+
+   The rich world is also re-examining the case for nuclear. America is
+   expecting a rush of applications to build new reactors in the coming
+   months--the first in almost 30 years. Britain's prime minister, Gordon
+   Brown, recently affirmed his support for a new generation of nuclear
+   power plants. Construction of a new one in Finland, western Europe's
+   first for 15 years, began in 2005; work is just starting on another of
+   the same design in France. Other European countries that had frozen or
+   decided to scrap their nuclear programmes are rethinking their plans.
+
+   There are good reasons for this enthusiasm. Nuclear reactors emit
+   almost none of the greenhouse gases responsible for global warming.
+   They are fuelled by uranium, which is relatively abundant and is
+   available from many sources, including reassuringly stable places such
+   as Canada and Australia.
+
+   At the moment 439 nuclear reactors in 31 countries supply 15% of the
+   world's electricity. Even without a price on carbon emissions, says
+   Fatih Birol, the chief economist of the International Energy Agency
+   (IEA), the worldwide generating capacity of nuclear power plants will
+   probably increase from about 370 gigawatts today to 520 gigawatts in
+   2030. But if there were a price on carbon dioxide, says Mr Birol, "it
+   could grow even faster."
+
+   But there are also good reasons for scepticism. Nuclear plants are
+   expensive: each can cost several billion dollars to build. Worse, in
+   the past, ill-conceived designs, safety scares and the regulatory
+   delays they gave rise to made nuclear plants even more costly than
+   their hefty price-tags suggest. Vendors of new nuclear plants, such as
+   Areva, General Electric (GE), Hitachi and Westinghouse, argue that
+   things are different now. The latest designs incorporate suggestions
+   from utilities and operators with decades of experience, and should,
+   their creators say, make new plants safer and easier to operate. They
+   believe the simpler new reactors, with their longer lifespans and
+   reduced maintenance costs, will also improve the economics of the
+   industry.
+
+                                                  [spacer.gif] [gray.gif]
+                                                             [spacer.gif]
+       "The latest generation of reactors includes important improvements
+                                                     over prior designs."
+                                                             [spacer.gif]
+                                                               [gray.gif]
+
+   All nuclear reactors rely on nuclear fission, a process that was
+   discovered in the 1930s. When certain heavy atoms are struck by a
+   neutron, they absorb it, become unstable and split apart. This results
+   in two lighter atoms, and two or three neutrons are ejected. The
+   process releases large amounts of energy, much of it in the form of
+   the kinetic energy of the fast-moving fission products. This kinetic
+   energy is converted to heat as the fission products slow down.
+
+   If the ejected neutrons go on to strike other unstable atoms nearby,
+   those too can break apart, releasing further neutrons in a process
+   known as a chain reaction. When enough of these neutrons produce
+   further fissions--rather than escaping, bouncing off or being absorbed
+   by atoms that do not split apart--the process becomes self-sustaining.
+   An uncontrolled chain reaction within a large amount of fissionable
+   material can lead to an explosive release of energy, as in nuclear
+   weapons. But in nuclear reactors, which contain far less fissionable
+   material, the chain reaction and the release of energy are carefully
+   controlled.
+
+   War and peace
+
+   In 1942 the physicist Enrico Fermi led a group of scientists who built
+   the first nuclear reactor as part of the Manhattan Project--America's
+   effort to build the first atomic bomb. Although the reactor was simple
+   in design, it included features that are part of almost every nuclear
+   power plant today. The reactor core consisted of pellets of uranium
+   fuel inside bricks made of graphite, which served as a "moderator",
+   reducing the speed of the neutrons in order to maximise their ability
+   to cause further fissions. (Most reactors today use water as the
+   moderator.) In addition, the set-up included "control rods" made of a
+   material that absorbed neutrons. These rods could be inserted into the
+   core to slow or shut down the chain reaction if necessary.
+
+   Although all of this was done with a view to building an effective
+   weapon, the scientists involved always knew that nuclear technologies
+   also had promising peaceful uses. In 1953 America's president, Dwight
+   Eisenhower, gave his famous "Atoms for Peace" speech before the United
+   Nations General Assembly, in which he called for the controlled
+   application of nuclear energy in a civilian context. In the mid-1950s
+   the world's first civilian nuclear power stations appeared in America,
+   Britain and Russia.
+
+   America's first civilian nuclear power plant, of a type called a
+   pressurised water reactor (PWR), was designed by Westinghouse and
+   adapted from the reactors used in nuclear submarines. Inside a PWR,
+   water--which is kept under high pressure to prevent it from
+   boiling--has a double function. In a closed "primary" loop, it serves
+   as a coolant for the reactor core and as a moderator, to slow down the
+   fast neutrons created during fission. As the water in the primary loop
+   circulates, it becomes very hot. This heat energy is then transferred
+   to a secondary loop of water. The resulting steam is used to spin
+   turbines that generate electricity.
+
+   Nuclear's golden age
+
+   In the 1950s the pursuit of atomic energy was viewed as a largely
+   positive endeavour. In a speech in 1954 before a group of science
+   writers, the head of America's Atomic Energy Commission, Lewis
+   Strauss, even declared that one day nuclear power would be "too cheap
+   to meter". By the mid-1960s America's two leading reactor vendors,
+   General Electric (GE) and Westinghouse, were involved in an intense
+   competition. GE began to offer "turnkey" contracts to utilities, in
+   which it delivered an entire nuclear plant for a fixed price. To keep
+   up, Westinghouse followed suit, causing a surge in orders. But this
+   sales ploy turned out to be a money-loser for both firms in the end.
+
+   The boom in reactor construction coincided with the beginnings of
+   America's environmental movement and a sense of growing unease about
+   nuclear power. By the early 1970s uncertainties over radioactive-waste
+   disposal, the effects of radiation and the potential consequences of a
+   nuclear accident prompted a backlash. One frightening scenario was the
+   "China Syndrome": the idea that molten radioactive fuel undergoing a
+   runaway reaction might burn its way through the bottom of the
+   reactor's pressure vessel and containment structure, and then down
+   into the Earth. Of course the fuel would never actually reach China,
+   but were it to breach the containment structure, the result could be a
+   huge release of radioactivity.
+
+   As electricity demand levelled off and interest rates shot up,
+   applications to build nuclear reactors started to decline, at least in
+   America. Then in 1979 a serious accident occurred at a plant at Three
+   Mile Island, near Harrisburg, Pennsylvania. A combination of
+   mechanical failures and operator errors caused a partial melting of
+   the reactor core. Fortunately the pressure vessel housing the core
+   held, and virtually no dangerous radioactive gases escaped from the
+   plant, says J. Samuel Walker, the historian of the Nuclear Regulatory
+   Commission, the agency that regulates America's nuclear power plants.
+   Although the accident nearly killed off America's nuclear-power
+   industry, it did not harm any people.
+
+   But a few years later a true disaster occurred. In 1986 a reactor at
+   Chernobyl in Ukraine became unstable, and a power surge inside the
+   core led to two explosions that destroyed the reactor and blew its
+   roof off. As a result, significant amounts of radioactive material
+   escaped into the environment. About 30 emergency workers died of
+   radiation exposure shortly after the accident. Thousands more people
+   who lived in contaminated areas developed serious health problems,
+   some of them fatal. The cause of the accident was found to be a
+   combination of operator errors and inherent flaws in the plant's
+   design. Industry insiders pointed out that reactors based on this
+   flawed design had not been deployed in Western countries. Even so, the
+   accident further undermined public confidence in nuclear power.
+
+   Although the nuclear industry faced decline or stagnation in many
+   Western countries in the 1980s, it thrived in one of them: France.
+   After the oil crisis of 1973, France decided to pursue the goal of
+   fossil-fuel independence. With few energy resources of its own,
+   pursuing nuclear power seemed like the best strategy. All the
+   commercial nuclear plants operating in France today were based on
+   technology devised by Westinghouse, which licensed its PWR design to
+   France in the 1960s. Today the country has 59 nuclear reactors
+   supplying 78% of its electricity.
+
+   Nuclear has worked well in France in part because it is accepted by
+   politicians and the public alike, so there are few delays due to
+   protests or planning problems. Elsewhere, these have lengthened the
+   construction period and enormously increased costs. Once up and
+   running, however, nuclear plants have a distinct advantage over those
+   run on coal or natural gas: they need comparatively little fuel to
+   operate. Although the price of uranium jumped from about $70 per pound
+   in January to about $130 in mid-July, operating costs of nuclear power
+   plants have changed very little. (Construction accounts for as much as
+   three-quarters of the cost of nuclear generation.) Moreover, the rise
+   in the price has prompted an exploration boom that will ultimately
+   lead to more mines and greater supply. Uranium is not thought to be
+   particularly scarce--it has simply not been very profitable to look
+   for it recently.
+
+   The latest generation of reactors, which evolved from models
+   constructed in the 1970s and 1980s, include important improvements
+   over prior designs. Westinghouse's new AP1000, for example, has
+   "passive safety" systems that can prevent a meltdown during an
+   emergency without operator intervention. If the reactor loses pressure
+   because of a loss of coolant, for example, pressurised tanks deliver
+   water to the core, since the pressure in the tanks is higher than that
+   in the core, explains Howard Bruschi, who has worked for Westinghouse
+   since the 1960s and is now a consultant to the company. The new
+   reactor's simplified design also means that fewer motors, pumps and
+   pipes are needed, reducing not only the potential for mechanical
+   errors, but also costs of maintenance, inspections and repairs.
+   Westinghouse recently agreed to provide four new plants to China.
+
+   Soul of a new reactor
+
+   Meanwhile, Areva, a French nuclear company, is engineering ever more
+   powerful plants. Its first reactor, which began operating in 1977, was
+   rated at 900 megawatts; its latest model, the evolutionary power
+   reactor (EPR), is a 1,600-megawatt design. The company has already
+   begun building two such plants in Europe: one in Finland, which is now
+   expected to start operating in 2011, about two years late, and another
+   in France. Both the EPR and the AP1000, along with GE's latest design,
+   are among the plants under consideration by American utilities.
+
+   A demonstration plant of a completely different type, a "pebble bed"
+   reactor, is scheduled to be built in South Africa starting in 2009.
+   Based on technology that originated in Germany, its design is unique
+   in several ways. For one thing, its small size (165 megawatts) should
+   make it comparatively fast and cheap to build; depending on power
+   needs, several units sharing a single control room could be
+   constructed on one site. And the uranium fuel is encapsulated in
+   rugged "pebbles", the size of tennis balls, which are designed to
+   withstand a loss of coolant without disintegrating, making the reactor
+   extremely safe. Andrew Kadak, a professor at the Massachusetts
+   Institute of Technology (MIT), who has been developing a smaller,
+   alternative pebble-bed design with his students, is convinced that
+   "these reactors cannot melt down."
+
+   Even though new designs for nuclear plants may be safer, they still
+   generate toxic waste. After about three years of use, the fuel is
+   depleted of most fissile uranium but has accumulated long-lived
+   radioactive materials that cannot be burned in conventional reactors.
+   At the moment most such waste is stored near the plant until it can be
+   moved to a permanent facility. But no country is yet operating a final
+   disposal site for highly radioactive nuclear waste. America's Yucca
+   Mountain repository, for example, is not expected to be ready for use
+   for many years, if ever. In some countries nuclear waste is
+   "reprocessed"--a procedure in which plutonium is separated from the
+   rest of the spent fuel, which can then be made into new fuel.
+   Plutonium, of course, can be used to make nuclear weapons. Because of
+   concern over nuclear proliferation, America has not engaged in
+   civilian reprocessing since 1977.
+
+   As part of a new multinational initiative called the Global Nuclear
+   Energy Partnership (GNEP), however, America's Department of Energy is
+   supporting a type of spent fuel reprocessing which does not separate
+   the plutonium from other highly radioactive materials in the waste,
+   thus making it more resistant to proliferation than traditional
+   reprocessing. This mixture of plutonium and other radioactive elements
+   could then be turned into fuel suitable for use in "fast" reactors.
+   Most reactors in operation today are called "thermal" reactors,
+   because they use a moderator to slow down the neutrons and promote
+   fission. Fast reactors, in contrast, do not employ moderators and use
+   much faster neutrons to produce fissions. So they can consume many of
+   the long-lived radioactive materials that thermal reactors cannot.
+
+                                                                       AP
+
+                                     AP
+
+                  They don't build them like they used to
+
+   This approach could extract far more energy from a given amount of
+   nuclear fuel while at the same time reducing the volume and toxicity
+   of nuclear waste. Proponents of fast reactors reckon that most of the
+   remaining waste would need to be stored for only a few centuries,
+   perhaps, rather than hundreds of thousands of years, once the most
+   radioactive elements had been separated out. According to the Nuclear
+   Energy Institute, a lobby group in Washington, DC, this could mean
+   that America would need only one nuclear-waste repository. In the long
+   term, a fleet of fast reactors could use nuclear fuel so efficiently
+   that "for all practical purposes, the uranium would be inexhaustible,"
+   says William Hannum, a nuclear physicist who used to work at America's
+   Argonne National Laboratory.
+
+   But opponents of this strategy call it a distraction that could hinder
+   the renewal of the nuclear power industry. For one thing, many new
+   fast reactors and fuel-reprocessing facilities would have to be built,
+   adding billions of dollars to the enormous sums already required for
+   new nuclear plants. In addition, some of the technologies in question
+   have not been demonstrated on a commercial scale yet. And the GNEP
+   reverses America's ban on civilian reprocessing, which critics say
+   could encourage the proliferation of weapons-grade materials.
+
+   In the end, the deployment of new nuclear reactors will depend on many
+   factors, including successful waste and proliferation management,
+   improved economics, and perhaps most important, convincing the public
+   that nuclear reactors can be operated safely. Despite these obstacles,
+   there is an undeniable mood of optimism in the industry. Whether that
+   will be enough to spark the deployment of the hundreds of reactors
+   that will be needed to help mitigate the effects of global warming
+   remains to be seen, cautions Richard Lester, a professor of nuclear
+   science and engineering at MIT. Were there to be another disaster like
+   Chernobyl, or a successful terrorist attack on a nuclear plant, all
+   bets would be off. But for now most people in the industry agree that
+   nuclear power's prospects look brighter than they have in a long time.
+

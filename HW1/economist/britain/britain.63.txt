@@ -1,0 +1,209 @@
+
+   Intellectual property: A new scheme will solicit comments via the
+   internet to improve the vetting of patent applications
+
+                                                             Lucy Vigrass
+
+                                Lucy Vigrass
+
+   PATENT examiners, who scrutinise applications for patents and
+   determine whether they ought to be granted or not, are used to poring
+   over diagrams of complicated contraptions. But now the patent system
+   itself, just as complex in its own way, is under increasing scrutiny.
+
+   The number of applications has soared in recent years, but patent
+   offices have been unable to keep up--resulting in huge backlogs and
+   lengthy delays. Standards have slipped and in America the number of
+   lawsuits over contested patents has shot up (see chart). In an attempt
+   to fix these problems, the United States Patent and Trademark Office
+   (USPTO), Britain's Intellectual Property Office (IPO) and the European
+   Patent Office are evaluating a radical change: opening the process up
+   to internet-based collaboration.
+
+   The scheme, known as "Peer to Patent", was created by Beth Simone
+   Noveck, a professor at New York Law School. It applies an unusual form
+   of peer review to a process which traditionally involves only a patent
+   applicant and an examiner. Anybody who is interested may comment on a
+   patent application via the internet. The scheme was launched as a
+   one-year pilot programme in America on June 15th. Sean Dennehey of
+   Britain's IPO, who sits on the project's advisory board, says his
+   organisation will follow suit by the end of the year. The project is
+   being supported by big technology firms including IBM, Microsoft and
+   Hewlett-Packard.
+
+   An efficient patent system is essential for the promotion of
+   innovation. Patents give inventors a temporary monopoly on a new idea
+   in return for disclosing how it works, so that others can subsequently
+   build upon it. But if a patent is granted for something that is not
+   novel (people are already doing it), or is obvious (any Tom, Dick, or
+   Harry in the field could think it up), it can hamper innovation by
+   turning a widely used invention or process into one person's monopoly.
+   The trouble is that examiners cannot always tell when a patent is
+   unwarranted.
+
+   To prove that an invention is not novel, the patent examiner must find
+   evidence that others have already done everything claimed in the
+   patent, a quest known as a "prior art" search. Prior art is also the
+   basis for determining whether some new step claimed in the invention
+   is obvious--and therefore not worthy of a patent. But prior art can be
+   elusive. It might be buried in an obscure technical journal, in
+   conference slides, or in a doctoral thesis tucked away in a university
+   library. It could even be embodied in a machine taken off the market
+   years earlier. Finding prior art is hardest in fields where patenting
+   is fairly new, such as software, biotechnology, financial services and
+   business methods.
+
+   Examiners are usually well versed in the technology they review and
+   are adept at searching their office's collections of patents, along
+   with other databases. But given the specialisation of modern science
+   and technology, they cannot be expected to keep abreast of all the
+   technical literature. To complicate matters further, says Jon Dudas,
+   the director of the USPTO, patent applications have become more
+   complex as well as more numerous: some applications contain thousands
+   of claims. A biotech patent may be accompanied by gigabytes of
+   computer data. And a quarter of the applications handled by the USPTO
+   contain no references to prior art, adds Mr Dudas, while another
+   quarter contain more than 25 references. This makes it hard for
+   examiners to decide which ones deserve the closest scrutiny.
+
+   There have already been several attempts to overhaul the system. Court
+   cases and regulatory changes have altered it in various ways in recent
+   years, but this has not done away with the perception that the system
+   is in crisis, nor silenced those calling for further reform. In
+   "Innovation and its Discontents", a book published in 2004, Adam Jaffe
+   and Josh Lerner argue that some reforms have even made things worse.
+   And "Patent Failure", a forthcoming book by James Bessen and Michael
+   Meurer, argues that America's system does inventors more harm than
+   good. Other critics have called for the elimination of patents on
+   software, business processes and human genes.
+
+   Several independent outfits already supplement the official
+   patent-granting institutions. Among them is Patent Lens, run by
+   CAMBIA, a non-profit research institute, which tries to make it easier
+   to track down relevant patents in a particular field. Similarly,
+   PatentFizz is a website that makes it easy to find out about
+   particular patents, comment on them and even add references to prior
+   art. In both cases the aim is to open the working of the patent system
+   up to greater scrutiny.
+
+   Peer to Patent builds on these ideas, especially the notion that
+   practitioners and researchers within a particular field collectively
+   have all the relevant prior art at their fingertips already. All the
+   patent office needs to do, therefore, is to get that community to tell
+   it what it already knows. Peer to Patent does this using the latest
+   web-based collaboration tools, such as voting and tagging, which can
+   harness the collective knowledge of a large number of users.
+
+   The USPTO wants YOU
+
+   The USPTO's pilot scheme will scrutinise 250 patent applications in a
+   handful of computer-related fields, with the approval of the
+   applicants. The first examples have been submitted by IBM, Intel,
+   Microsoft and other technology giants. The text of each application is
+   posted in full for public scrutiny, and members of the public can sign
+   up to participate in the review process. They can discuss each
+   application in an online forum, suggest examples of prior art, and
+   vote for the prior art they consider most relevant. Messages that are
+   considered off-topic can be flagged, and there are plans to allow
+   participants to rate each other, so that the most highly regarded
+   participants' recommendations rise to the top of the pile.
+
+                                                             Lucy Vigrass
+                                                             Lucy Vigrass
+
+   Tagging, a common feature of many modern websites, is also used.
+   Patents in new fields often sound like gobbledygook, since each
+   inventor makes up his own terminology. But a user familiar with the
+   field in question may realise that the invention matches something
+   already in use under a different name. By adding an appropriate tag,
+   that user can attract the attention of experts with a comprehensive
+   knowledge of the field's prior art.
+
+   Eventually, the ten pieces of prior art that receive most votes in the
+   Peer to Patent community perusing each patent are sent to the patent
+   examiner. As with conventional patent applications, examiners will
+   still choose which prior art is referred to in their decision on a
+   patent application, known as an "office action". But the community's
+   explanations, discussion and examples will be taken into account.
+
+   The pilot Peer to Patent scheme allows examiners and volunteer
+   participants to provide feedback to refine the process. A total of 18
+   measures will be used to assess the scheme and evaluate its
+   effectiveness, including the number of items of prior art provided by
+   the community that appear in office actions; the number of claims
+   changed by applicants as a result of queries raised by the community;
+   and the number of volunteer participants signed up, as well as their
+   level of participation.
+
+                                                  [spacer.gif] [gray.gif]
+                                                             [spacer.gif]
+      "The information provided should improve patent examiners' grasp of
+                                                highly technical fields."
+                                                             [spacer.gif]
+                                                               [gray.gif]
+
+   Mr Dudas says he considers Peer to Patent to be a "natural step" in
+   opening up the patent system and fulfilling its original goal of
+   encouraging the publication of new ideas. In Britain, Mr Dennehey
+   regards Peer to Patent as a more up-to-date way for the public to
+   submit observations during a patent examination, something already
+   permitted by law. (In America, third parties are allowed to submit
+   only prior art without comments under the current system.) Patent
+   lawyers are also intrigued. Mark Costello, general patent counsel at
+   Xerox, an American document-management company, says the idea has
+   merit, but that he will be watching closely to see "whether it remains
+   a fair and objective system after competitors enter the process".
+
+   The scheme's immediate impact is likely to be minimal. Patent
+   applicants are free to ignore the online community's discussions and
+   respond only to the office action, as they always have. But if Peer to
+   Patent succeeds, "we will have made the most significant improvement
+   to the patent system in decades, and done a great service to the
+   public and the economy," says Manny Schecter, a member of the
+   project's steering committee and an intellectual-property lawyer at
+   IBM.
+
+   The hope is that Peer to Patent will reduce both uncertainty for
+   inventors and unnecessary lawsuits because dodgy applications will be
+   uncovered and rejected quickly. This ought to mean that patents issued
+   will be stronger, leading to fewer challenges by those required to
+   license them. Indirectly, the scheme could also help innovators to
+   commercialise their ideas, since stronger patents will make
+   patent-holders' work more attractive to investors.
+
+   The information provided by the Peer to Patent community should also
+   help patent examiners to improve their understanding of highly
+   technical fields. Inventors and patent lawyers--who currently depend
+   on the patent office's collection of patents and prior art when
+   conducting prior-art searches--should gain, too.
+
+   For all that, some observers are sceptical about bits of the Peer to
+   Patent process. They wonder whether people will really volunteer to
+   provide examples of prior art, join discussions, and so on. Ms Noveck
+   cites the widespread participation in other online communities--such
+   as Wikipedia, a collaborative online encyclopedia--as evidence of the
+   public's desire to contribute. But although everyone knows what an
+   encyclopedia is, and the pages of Wikipedia can be edited with a few
+   clicks, not many people understand the patent process, or know how to
+   read a patent.
+
+   Another concern is that the people who take part in the project will
+   represent vested interests--in particular, big technology firms which
+   can assign staff to review patents. There are also worries about the
+   possibility of tacit collusion among large patent-holders, who might
+   attack individual inventors in order to keep them out of specific
+   markets.
+
+   Ms Noveck, however, is a believer in grassroots democracy. If Peer to
+   Patent's goal of cleaning up the patent system was not already
+   audacious enough, she thinks the project could also serve as a
+   demonstration that the public, helped by technology, can participate
+   more fully in its own governance. Unfortunately, Peer to Patent
+   suffers from the same vulnerabilities as other democratic
+   institutions. If the public engages with it earnestly, it could
+   produce marvellous results. But if people tire of it and cede control
+   to special interests that do not align with the public interest, Peer
+   to Patent could devolve into just another prop for the status quo. The
+   project's outcome, at this early stage, remains uncertain. But it is
+   surely worth a try.
+

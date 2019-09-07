@@ -1,0 +1,61 @@
+
+   Transport: After a long gestation, ground-effect vehicles that fly on
+   cushions of air could finally be ready for take-off
+
+   WALK along the River Warnow, in northern Germany, and you may be lucky
+   enough to spot a SeaFalcon, a sleek, white machine with two
+   propellers, two wings and a distinctly un-birdlike tail. It looks like
+   an aircraft. Which is what it is. Except, it isn't. It is a ship--at
+   least in the eyes of the International Marine Organisation, which
+   regulates such things. That matters, because ships are much more
+   lightly regulated than aircraft.
+
+   The SeaFalcon is really a ground-effect vehicle. It flies only over
+   water and only two metres above that water. This means the air beneath
+   its wings is compressed, giving it additional lift. In effect, it is
+   floating on a cushion of air. That makes it far cheaper to run than a
+   plane of equivalent size, while the fact that it is flying means it is
+   far faster--at 80-100 knots--than a ship of any size. Its designer,
+   Dieter Puls, thus hopes it will fill a niche for the rapid transport
+   of people and light goods in parts of the world where land and sea
+   exist in similar proportions.
+
+   The theory of ground-effect vehicles goes back to the 1920s, when Carl
+   Wieselsberger, a German physicist, described how the ground effect
+   works. There was then a period of silence, followed by a false start.
+   In the 1960s the Soviet armed forces thought that ground-effect
+   vehicles would be ideal for shifting heavy kit around places like the
+   Black Sea. Their prototypes did fly, but were never deployed in
+   earnest--and their jet engines consumed huge amounts of fuel.
+
+   This did, however, prove that the idea worked. And two German
+   engineers, Mr Puls and Hanno Fischer (whose version is called Airfish
+   8), have taken it up and made it work by using modern, composite
+   materials for the airframes, and propellers rather than jets for
+   propulsion. One reason the Soviet design was so thirsty is that the
+   power needed to lift a ground-effect vehicle is far greater than that
+   needed to sustain it in level flight. The Soviet design used heavy jet
+   engines to deliver the power needed for take-off. But the SeaFalcon
+   uses a hydrofoil to lift itself out of the water, and Airfish 8 uses
+   what Mr Fischer calls a hoverwing--a system of pipes that takes air
+   which has passed through the propeller and blasts it out under the
+   craft during take-off.
+
+   The next stage, of course, is to begin production in earnest--and that
+   seems to be about to happen. Mr Puls says he has signed a deal with an
+   Indonesian firm for an initial order of ten, while both he and Mr
+   Fischer are in discussions with Wigetworks, a Singaporean company,
+   with a view to starting production next year. South-East Asia, with
+   its plethora of islands and high rate of economic growth is just the
+   sort of place where ground-effect vehicles should do well.
+
+   All of which sounds optimistic. But a note of caution is needed. For
+   another sort of ground-effect vehicle was also expected to do well and
+   ended up going nowhere. The hovercraft differed from the vehicles
+   designed by Messrs Puls and Fischer in that it relied on creating its
+   own cushion of air, rather than having one provided naturally. That
+   meant it could go on land as well as sea--which was thought at the
+   time (the 1950s) to be a winning combination. Sadly, it was not.
+   Hovercraft have almost disappeared. But then, in the eyes of the
+   regulators, they counted as aircraft.
+

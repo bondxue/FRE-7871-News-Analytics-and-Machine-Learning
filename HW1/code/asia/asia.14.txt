@@ -1,0 +1,18 @@
+   rights reserved.
+
+   IFRAME:
+   [4]http://switch.atdmt.com/iaction/oy6ats_EconomistcomLandingPage_1
+
+   [activity;src=1245986;type=econo981;cat=e09as761;ord=1?]
+
+   IFRAME:
+   [5]http://ad.n2434.doubleclick.net/activity;src=1113415;type=2ndli341;
+   cat=world756;ord=1;num=1?
+
+References
+
+   1. http://ad.doubleclick.net/jump/main.economist.com/printer;pos=1;sect=world;sect=p_top;sect=d_top;sect=world_p_top;sect=world_d_top;sz=468x60;tile=1;dcopt=ist;ord=54135762?
+   2. http://www.economist.com/index.cfm
+   3. http://www.economist.com/background/displayBackground.cfm?story_id=9249711
+   4. http://switch.atdmt.com/iaction/oy6ats_EconomistcomLandingPage_1
+   5. http://ad.n2434.doubleclick.net/activity;src=1113415;type=2ndli341;cat=world756;ord=1;num=1?
