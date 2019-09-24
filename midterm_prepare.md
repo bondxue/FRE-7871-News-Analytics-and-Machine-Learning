@@ -111,3 +111,55 @@ Ensemble techniques use a combination of learning algorithms to optimize better 
 
 You could list some examples of ensemble methods, from bagging to boosting to a “bucket of models” method and demonstrate how they could increase predictive power.
 
+### How do you ensure you’re not overfitting with a model?
+
+This is a simple restatement of a fundamental problem in machine learning: the possibility of overfitting training data and carrying the noise of that data through to the test set, thereby providing inaccurate generalizations.
+
+There are three main methods to avoid overfitting:
+
+1- Keep the model simpler: reduce variance by taking into account fewer variables and parameters, thereby removing some of the noise in the training data.
+
+2- Use cross-validation techniques such as k-folds cross-validation.
+
+3- Use regularization techniques such as LASSO that penalize certain model parameters if they’re likely to cause overfitting.
+
+### What’s the “kernel trick” and how is it useful?
+
+The Kernel trick involves kernel functions that can enable in higher-dimension spaces without explicitly calculating the coordinates of points within that dimension: instead, kernel functions compute the inner products between the images of all pairs of data in a feature space. This allows them the very useful attribute of calculating the coordinates of higher dimensions while being computationally cheaper than the explicit calculation of said coordinates. Many algorithms can be expressed in terms of inner products. Using the kernel trick enables us effectively run algorithms in a high-dimensional space with lower-dimensional data.
+
+### What’s selection bias? What other types of biases could you encounter during sampling?
+
+When you’re dealing with a non-random sample, selection bias will occur due to flaws in the selection process. This happens when a subset of the data is consistently excluded because of a particular attribute. This exclusion will distort results and influence the statistical significance of the test.
+
+Other types of biases include survivorship bias and undercoverage bias. It’s important to always consider and reduce such biases because you’ll want your smart algorithms to make accurate predictions based on the data.
+
+### What’s a random forest? Could you explain its role in AI?
+
+A random forest is a data construct that’s applied to ML projects to develop a large number of random decision trees while analyzing variables.
+
+These algorithms can be leveraged to improve the way technologies analyze complex data sets. The basic premise here is that multiple weak learners can be combined to build one strong learner.
+
+This is an excellent tool for AI and ML projects because it can work with large labeled and unlabeled data sets with a large number of attributes. It can also maintain accuracy when some data is missing. As it can model the importance of attributes, it can be used for dimensionality reduction.
+
+
+### What’s regularization?
+
+When you have underfitting or overfitting issues in a statistical model, you can use the regularization technique to resolve it. Regularization techniques like LASSO help penalize some model parameters if they are likely to lead to overfitting.
+
+If the interviewer follows up with a question about other methods that can be used to avoid overfitting, you can mention cross-validation techniques such as k-folds cross-validation.
+
+Another approach is to keep the model simple by taking into account fewer variables and parameters. Doing this helps remove some of the noise in the training data.
+
+### What is NLP(natural language processing) ?
+
+Natural language processing is a subfield of computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human languages, in particular how to program computers to process and analyze large amounts of natural language data
+
+
+### What is tokenization ?
+
+Splitting the sentence into words
+
+### What is stemming ? 
+
+Stemming is the process of reducing a word to its word stem that affixes to suffixes and prefixes.
+
