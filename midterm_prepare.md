@@ -263,3 +263,11 @@ Bagging, or Bootstrap Aggregating, is an ensemble method in which the dataset is
 Then, each subset is used to train a model, and the final predictions are made through voting or averaging the component models.
 
 Bagging is performed in parallel.
+
+### What is order book ?
+
+An order book is an electronic list of buy and sell orders for a specific security or financial instrument organized by price level. An order book lists the number of shares being bid or offered at each price point, or market depth.
+
+### Explain how a ROC curve works.
+
+The ROC curve is a graphical representation of the contrast between true positive rates and the false positive rate at various thresholds. It’s often used as a proxy for the trade-off between the sensitivity of the model (true positives) vs the fall-out or the probability it will trigger a false alarm (false positives).
