@@ -275,3 +275,18 @@ An order book is an electronic list of buy and sell orders for a specific securi
 ### Explain how a ROC curve works.
 
 The ROC curve is a graphical representation of the contrast between true positive rates and the false positive rate at various thresholds. It’s often used as a proxy for the trade-off between the sensitivity of the model (true positives) vs the fall-out or the probability it will trigger a false alarm (false positives).
+
+### What is bag of words model ?
+The Bag-of-words model is mainly used as a tool of feature generation. After transforming the text into a "bag of words", we can calculate various measures to characterize the text. The most common type of characteristics, or features calculated from the Bag-of-words model is term frequency, namely, the number of times a term appears in the text.
+
+### How to determine sentiment score?
+
+Use a list of positive and negative keywords to evaluate reviews.
+
+Net Sentiment Score: NSS = (pos mentions - neg mentions)/(pos mentions + neg mentions) \*100
+
+The Senti-Scoring Classifier is one of the most straight-forward methods for sentiment analysis, and it can be implemented easily. 
+
+It serves as a good baseline for performance evaluation and comparison of algorithms.
+ 
+ 
