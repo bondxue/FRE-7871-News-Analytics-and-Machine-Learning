@@ -288,5 +288,12 @@ Net Sentiment Score: NSS = (pos mentions - neg mentions)/(pos mentions + neg men
 The Senti-Scoring Classifier is one of the most straight-forward methods for sentiment analysis, and it can be implemented easily. 
 
 It serves as a good baseline for performance evaluation and comparison of algorithms.
+
+### What is Gambler's ruin? 
+
+The original meaning is that a persistent gambler who raises his bet to a fixed fraction of bankroll when he wins, but does not reduce it when he loses, will eventually and inevitably go broke, even if he has a positive expected value on each bet.
+
+Another common meaning is that a persistent gambler with finite wealth, playing a fair game (that is, each bet has expected value zero to both sides) will eventually and inevitably go broke against an opponent with infinite wealth. Such a situation can be modeled by a random walk on the real number line. In that context it is provable that the agent will return to his point of origin or go broke and is ruined an infinite number of times if the random walk continues forever.
+
  
  
