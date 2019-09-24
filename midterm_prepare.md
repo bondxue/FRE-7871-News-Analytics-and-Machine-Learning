@@ -216,3 +216,21 @@ Topic modeling is a type of statistical modeling for discovering the abstract �
 ### What is text generation ? When we will do it ?
 
 Generate new text from understanding old data.
+
+### What Term frequency(TF) ?
+
+### What is Inverse term frequency (IDF) ?
+
+### TF-IDF Matrix ？
+
+tf–idf = term frequency  x inverse document frequency
+
+Tf–idf or TF IDF stands for term frequency–inverse document frequency. In information retrieval TF IDF is is a numerical statistic that is intended to reflect how important a word is to a document in a collection or in the collection of a set.
+
+### Latent Dirichlet Allocation (LDA) ？
+
+LDA is unsupervised learning model, LDA is latent Dirichlet allocation, not Linear discriminant analysis. Selection of the number of topics is directly proportional to the size of the data, while number of topic terms is not directly proportional to the size of the data. Hence none of the statements are correct.
+
+### What Is The General Principle Of An Ensemble Method And What Is Bagging And Boosting In Ensemble Method?
+
+The general principle of an ensemble method is to combine the predictions of several models built with a given learning algorithm in order to improve robustness over a single model. Bagging is a method in ensemble for improving unstable estimation or classification schemes. While boosting method are used sequentially to reduce the bias of the combined model. Boosting and Bagging both can reduce errors by reducing the variance term.
