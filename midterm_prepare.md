@@ -234,3 +234,32 @@ LDA is unsupervised learning model, LDA is latent Dirichlet allocation, not Line
 ### What Is The General Principle Of An Ensemble Method And What Is Bagging And Boosting In Ensemble Method?
 
 The general principle of an ensemble method is to combine the predictions of several models built with a given learning algorithm in order to improve robustness over a single model. Bagging is a method in ensemble for improving unstable estimation or classification schemes. While boosting method are used sequentially to reduce the bias of the combined model. Boosting and Bagging both can reduce errors by reducing the variance term.
+
+
+### Explain Latent Dirichlet Allocation (LDA).
+
+Latent Dirichlet Allocation (LDA) is a common method of topic modeling, or classifying documents by subject matter.
+
+LDA is a generative model that represents documents as a mixture of topics that each have their own probability distribution of possible words.
+
+The "Dirichlet" distribution is simply a distribution of distributions. In LDA, documents are distributions of topics that are distributions of words.
+
+### Ensemble Learning
+
+Combining multiple models for better performance.
+
+### Why are ensemble methods superior to individual models?
+
+They average out biases, reduce variance, and are less likely to overfit.
+
+There's a common line in machine learning which is: "ensemble and get 2%."
+
+This implies that you can build your models as usual and typically expect a small performance boost from ensembling.
+
+### Explain bagging.
+
+Bagging, or Bootstrap Aggregating, is an ensemble method in which the dataset is first divided into multiple subsets through resampling.
+
+Then, each subset is used to train a model, and the final predictions are made through voting or averaging the component models.
+
+Bagging is performed in parallel.
