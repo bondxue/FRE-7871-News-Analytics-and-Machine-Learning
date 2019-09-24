@@ -205,3 +205,14 @@ Word embedding is the collective name for a set of language modeling and feature
 + Fasttext
 + genism
 
+### What is word2vec ? 
+
+Word2vec is a group of related models that are used to produce word embeddings. These models are shallow, two-layer neural networks that are trained to reconstruct linguistic contexts of words
+
+### What is Topic Modeling ? When we will do it ?
+
+Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents. Latent Dirichlet Allocation (LDA) is an example of topic model and is used to classify text in a document to a particular topic
+
+### What is text generation ? When we will do it ?
+
+Generate new text from understanding old data.
