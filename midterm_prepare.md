@@ -163,3 +163,45 @@ Splitting the sentence into words
 
 Stemming is the process of reducing a word to its word stem that affixes to suffixes and prefixes.
 
+### What is lemmatizing ? 
+
+Lemmatizing is also same like stemming but the difference is lemmantizing words known with dictionary.
+
+### What is Normalization ? 
+
+Converting different range of values to same scale from 0 to 1.
+
+### What are nlp libraries and tools ? 
+
+CoreNLP from Stanford group.
+
+NLTK, the most widely-mentioned NLP library for Python.
+
+TextBlob, a user-friendly and intuitive NLTK interface.
+
+Gensim, a library for document similarity analysis.
+
+SpaCy, an industrial-strength NLP library built for performance.
+
+### What are stop words ? 
+
+a, the , an etc like repeated words in text, that doesn’t give any additional value to context. we can filter those words by using nltk library standard function.
+
+### What is Corpus ? 
+
+It’s a collection of text documents.
+
+### What is N- Gram, Unigram, Bigram  and Trigram? 
+
+it’s about word analysis, unigram means single word, bigram means double words and trigram means tripple word.
+
+### What is word embedding ?
+Word embedding is the collective name for a set of language modeling and feature learning techniques in natural language processing where words or phrases from the vocabulary are mapped to vectors of real numbers
+
+### What are word embedding libraries ? 
+
++ Word2vec
++ Glove
++ Fasttext
++ genism
+
