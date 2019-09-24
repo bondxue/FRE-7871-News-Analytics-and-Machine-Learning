@@ -24,21 +24,21 @@ Removing stop words like a, an, the from a sentence can also enable the machine 
 
 Any typical NLP problem can be proceeded as follows:
 
-Text gathering(web scraping or available datasets)
++ Text gathering(web scraping or available datasets)
 
-Text cleaning(stemming, lemmatization)
++ Text cleaning(stemming, lemmatization)
 
-Feature generation(Bag of words)
++ Feature generation(Bag of words)
 
-Embedding and sentence representation(word2vec)
++ Embedding and sentence representation(word2vec)
 
-Training the model by leveraging neural nets or regression techniques
++ Training the model by leveraging neural nets or regression techniques
 
-Model evaluation
++ Model evaluation
 
-Making adjustments to the model
++ Making adjustments to the model
 
-Deployment of the model.
++ Deployment of the model.
 
 ### What is cross validation? 
 
@@ -129,9 +129,13 @@ The Kernel trick involves kernel functions that can enable in higher-dimension s
 
 ### What’s selection bias? What other types of biases could you encounter during sampling?
 
-When you’re dealing with a non-random sample, selection bias will occur due to flaws in the selection process. This happens when a subset of the data is consistently excluded because of a particular attribute. This exclusion will distort results and influence the statistical significance of the test.
+When you’re dealing with a non-random sample, **selection bias** will occur due to flaws in the selection process. This happens when a subset of the data is consistently excluded because of a particular attribute. This exclusion will distort results and influence the statistical significance of the test.
 
 Other types of biases include survivorship bias and undercoverage bias. It’s important to always consider and reduce such biases because you’ll want your smart algorithms to make accurate predictions based on the data.
+
+**Survivorship bias** or survival bias is the logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not, typically because of their lack of visibility. This can lead to false conclusions in several different ways.
+
+**Undercoverage**. In survey sampling, undercoverage is a type of selection bias . It occurs when some members of the population are inadequately represented in the sample.
 
 ### What’s a random forest? Could you explain its role in AI?
 
